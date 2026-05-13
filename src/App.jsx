@@ -40,6 +40,7 @@ const DEFAULT_NODE_RADIUS = 12;
 const MIN_NODE_RADIUS = 4;
 const MAX_NODE_RADIUS = 48;
 const LARGE_NODE_RADIUS = 45;
+const ANCIENT_WOMBGIFT_LOGO_URL = "https://www.poewiki.net/images/5/59/Ancient_Wombgift_inventory_icon.png";
 const REPOSITORY_NAME = "poe_genesis_tree";
 const GITHUB_SEARCH_FALLBACK_URL = `https://github.com/search?q=${encodeURIComponent(REPOSITORY_NAME)}&type=repositories`;
 const INTEGER_FORMATTER = new Intl.NumberFormat("en-US");
@@ -477,8 +478,21 @@ export default function App() {
     <main className="app-shell">
       <aside className="sidebar">
         <header className="sidebar-header fade-up">
-          <h1>Genesis Tree</h1>
-          <p>Static Web Calculator</p>
+          <div className="brand-lockup">
+            <img
+              src={ANCIENT_WOMBGIFT_LOGO_URL}
+              alt="Ancient Wombgift"
+              className="brand-logo"
+              width="72"
+              height="72"
+              loading="eager"
+              decoding="async"
+            />
+            <div className="brand-copy">
+              <h1>Genesis Tree</h1>
+              <p>Static Web Calculator</p>
+            </div>
+          </div>
 
           <div className="view-switch segmented-control segmented-control--view" role="tablist" aria-label="Workspace views">
             <button

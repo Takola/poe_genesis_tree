@@ -56,6 +56,28 @@ body {
   border-bottom: 1px solid var(--edge);
 }
 
+.brand-lockup {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand-logo {
+  width: 72px;
+  height: 72px;
+  display: block;
+  flex: 0 0 auto;
+  object-fit: contain;
+  border-radius: 16px;
+  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0) 65%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(0, 0, 0, 0.2));
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+}
+
+.brand-copy {
+  min-width: 0;
+}
+
 .sidebar-header h1 {
   margin: 0;
   font-size: 1.5rem;
