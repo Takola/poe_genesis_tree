@@ -45,7 +45,7 @@ TIER_CELL_PATTERN = re.compile(
     r"(?:T-1|TF|[0-5])(?:[rdu])?(?:-(?:T-1|TF|[0-5])(?:[rdu])?)*$",
     re.IGNORECASE,
 )
-CORE_POOL_BREACH_UNIQUE_NAMES = {"Eye of Chayula"}
+CORE_POOL_BREACH_UNIQUE_NAMES: set[str] = set()
 
 
 @dataclass(slots=True)
@@ -230,7 +230,7 @@ def merge_unique_items(guide_items: list[GuideItem], breach_items: list[GuideIte
             guide_subsection=existing.guide_subsection,
             tier=existing.tier,
             tier_raw=existing.tier_raw,
-            drop_pool="core" if "core" in {existing.drop_pool, item.drop_pool} else "breach-only",
+            drop_pool=item.drop_pool,
             is_breach_unique=True,
         )
 
