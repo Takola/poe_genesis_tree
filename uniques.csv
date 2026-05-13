@@ -1,0 +1,668 @@
+﻿name,item_class,guide_item_type,drop_pool,is_breach_unique,base_item,tier,tier_raw,required_level,required_strength,required_dexterity,required_intelligence,attribute_requirements,has_foulborn_variant,wiki_page
+Debeon's Dirge,Two Hand Axe,Two Hand Axes,core,no,Despot Axe,5,5 d,66,140,86,,"Str 140, Dex 86",no,https://www.poewiki.net/wiki/Debeon's_Dirge
+Hezmana's Bloodlust,Two Hand Axe,Two Hand Axes,core,no,Vaal Axe,3,3 d,64,158,76,,"Str 158, Dex 76",no,https://www.poewiki.net/wiki/Hezmana's_Bloodlust
+Kaom's Primacy,Two Hand Axe,Two Hand Axes,core,no,Karui Chopper,2,2 u,58,151,43,,"Str 151, Dex 43",yes,https://www.poewiki.net/wiki/Kaom's_Primacy
+Kitava's Feast,Two Hand Axe,Two Hand Axes,core,no,Void Axe,1,1 d,68,149,76,,"Str 149, Dex 76",no,https://www.poewiki.net/wiki/Kitava's_Feast
+Limbsplit,Two Hand Axe,Two Hand Axes,core,no,Woodsplitter,5,5 d,13,36,17,,"Str 36, Dex 17",no,https://www.poewiki.net/wiki/Limbsplit
+Ngamahu's Flame,Two Hand Axe,Two Hand Axes,core,no,Abyssal Axe,3,3 d,55,128,60,,"Str 128, Dex 60",yes,https://www.poewiki.net/wiki/Ngamahu's_Flame
+Reaper's Pursuit,Two Hand Axe,Two Hand Axes,core,no,Shadow Axe,5,5 d,33,80,37,,"Str 80, Dex 37",no,https://www.poewiki.net/wiki/Reaper's_Pursuit
+Sinvicta's Mettle,Two Hand Axe,Two Hand Axes,core,no,Ezomyte Axe,5,5 d,62,140,86,,"Str 140, Dex 86",no,https://www.poewiki.net/wiki/Sinvicta's_Mettle
+The Blood Reaper,Two Hand Axe,Two Hand Axes,core,no,Headsman Axe,5,5 d,45,99,57,,"Str 99, Dex 57",no,https://www.poewiki.net/wiki/The_Blood_Reaper
+The Harvest,Two Hand Axe,Two Hand Axes,core,no,Jasper Chopper,4,4 d,37,100,29,,"Str 100, Dex 29",yes,https://www.poewiki.net/wiki/The_Harvest
+Wideswing,Two Hand Axe,Two Hand Axes,core,no,Poleaxe,5,5 d,18,44,25,,"Str 44, Dex 25",no,https://www.poewiki.net/wiki/Wideswing
+Wings of Entropy,Two Hand Axe,Two Hand Axes,core,no,Ezomyte Axe,5,5 d,62,140,86,,"Str 140, Dex 86",no,https://www.poewiki.net/wiki/Wings_of_Entropy
+Dreadarc,One Hand Axe,One Hand Axes,core,no,Cleaver,5,5 d,16,48,14,,"Str 48, Dex 14",no,https://www.poewiki.net/wiki/Dreadarc
+Dyadus,One Hand Axe,One Hand Axes,core,no,Infernal Axe,4,4 d,69,158,76,,"Str 158, Dex 76",no,https://www.poewiki.net/wiki/Dyadus
+"Jack, the Axe",One Hand Axe,One Hand Axes,core,no,Vaal Hatchet,3,3 d,65,140,86,,"Str 140, Dex 86",no,"https://www.poewiki.net/wiki/Jack,_the_Axe"
+Moonbender's Wing,One Hand Axe,One Hand Axes,core,no,Tomahawk,4,4 d,39,81,56,,"Str 81, Dex 56",yes,https://www.poewiki.net/wiki/Moonbender's_Wing
+Relentless Fury,One Hand Axe,One Hand Axes,core,no,Decorative Axe,5,5 d,29,80,23,,"Str 80, Dex 23",no,https://www.poewiki.net/wiki/Relentless_Fury
+Rigwald's Savagery,One Hand Axe,One Hand Axes,core,no,Royal Axe,4,4 d,67,167,57,,"Str 167, Dex 57",yes,https://www.poewiki.net/wiki/Rigwald's_Savagery
+Soul Taker,One Hand Axe,One Hand Axes,core,no,Siege Axe,0,0 d,59,119,82,,"Str 119, Dex 82",no,https://www.poewiki.net/wiki/Soul_Taker
+The Screaming Eagle,One Hand Axe,One Hand Axes,core,no,Jade Hatchet,5,5 d,6,21,10,,"Str 21, Dex 10",no,https://www.poewiki.net/wiki/The_Screaming_Eagle
+Brain Rattler,Two Hand Mace,Two Hand Maces,core,no,Meatgrinder,3,3 d,63,212,,,Str 212,no,https://www.poewiki.net/wiki/Brain_Rattler
+Chober Chaber,Two Hand Mace,Two Hand Maces,core,no,Great Mallet,5,5 d,40,131,,,Str 131,no,https://www.poewiki.net/wiki/Chober_Chaber
+Geofri's Baptism,Two Hand Mace,Two Hand Maces,core,no,Brass Maul,5,5 d,27,92,,,Str 92,no,https://www.poewiki.net/wiki/Geofri's_Baptism
+Hrimnor's Hymn,Two Hand Mace,Two Hand Maces,core,no,Sledgehammer,5,5 d,17,62,,,Str 62,no,https://www.poewiki.net/wiki/Hrimnor's_Hymn
+Jorrhast's Blacksteel,Two Hand Mace,Two Hand Maces,core,no,Steelhead,4,4 d,44,143,,,Str 143,yes,https://www.poewiki.net/wiki/Jorrhast's_Blacksteel
+Kongor's Undying Rage,Two Hand Mace,Two Hand Maces,core,no,Terror Maul,4,4 d,67,212,,,Str 212,yes,https://www.poewiki.net/wiki/Kongor's_Undying_Rage
+Marohi Erqi,Two Hand Mace,Two Hand Maces,core,no,Karui Maul,0,0 d,57,182,,,Str 182,no,https://www.poewiki.net/wiki/Marohi_Erqi
+Quecholli,Two Hand Mace,Two Hand Maces,core,no,Jagged Maul,5,5 d,22,77,,,Str 77,no,https://www.poewiki.net/wiki/Quecholli
+The Yielding Mortality,Staff,Two Hand Maces,core,no,Imperial Staff,,,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/The_Yielding_Mortality
+Tidebreaker,Two Hand Mace,Two Hand Maces,core,no,Imperial Maul,1,1 d,65,212,,,Str 212,no,https://www.poewiki.net/wiki/Tidebreaker
+Trypanon,Two Hand Mace,Two Hand Maces,core,no,Great Mallet,3,3 d,40,131,,,Str 131,no,https://www.poewiki.net/wiki/Trypanon
+Voidhome,Two Hand Mace,Two Hand Maces,core,no,Dread Maul,4,4 d,54,173,,,Str 173,no,https://www.poewiki.net/wiki/Voidhome
+Augyre,Sceptre,Sceptres,core,no,Void Sceptre,3,3 d,68,104,,122,"Str 104, Int 122",no,https://www.poewiki.net/wiki/Augyre
+Axiom Perpetuum,Sceptre,Sceptres,core,no,Bronze Sceptre,5,5 d,10,22,,22,"Str 22, Int 22",no,https://www.poewiki.net/wiki/Axiom_Perpetuum
+Balefire,Sceptre,Sceptres,core,no,Opal Sceptre,5,5 d,60,95,,131,"Str 95, Int 131",no,https://www.poewiki.net/wiki/Balefire
+Bitterdream,Sceptre,Sceptres,core,no,Shadow Sceptre,3,3 d,32,52,,62,"Str 52, Int 62",no,https://www.poewiki.net/wiki/Bitterdream
+Breath of the Council,Sceptre,Sceptres,core,no,Carnal Sceptre,4,4 d,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Breath_of_the_Council
+Brutus' Lead Sprinkler,Sceptre,Sceptres,core,no,Ritual Sceptre,3,3 d,28,51,,51,"Str 51, Int 51",no,https://www.poewiki.net/wiki/Brutus'_Lead_Sprinkler
+Death's Hand,Sceptre,Sceptres,core,no,Karui Sceptre,5,5 d,56,96,,96,"Str 96, Int 96",yes,https://www.poewiki.net/wiki/Death's_Hand
+Doon Cuebiyari,Sceptre,Sceptres,core,no,Vaal Sceptre,3,3 d,64,113,,113,"Str 113, Int 113",yes,https://www.poewiki.net/wiki/Doon_Cuebiyari
+Earendel's Embrace,Sceptre,Sceptres,core,no,Grinning Fetish,5,5 d,35,62,,62,"Str 62, Int 62",no,https://www.poewiki.net/wiki/Earendel's_Embrace
+Maata's Teaching,Sceptre,Sceptres,core,no,Karui Sceptre,2,2 d,56,96,,96,"Str 96, Int 96",yes,https://www.poewiki.net/wiki/Maata's_Teaching
+Mon'tregul's Grasp,Sceptre,Sceptres,core,no,Void Sceptre,3,3 d,68,104,,122,"Str 104, Int 122",yes,https://www.poewiki.net/wiki/Mon'tregul's_Grasp
+Nycta's Lantern,Sceptre,Sceptres,core,no,Crystal Sceptre,3,3 d,41,59,,85,"Str 59, Int 85",no,https://www.poewiki.net/wiki/Nycta's_Lantern
+Sign of the Sin Eater,Sceptre,Sceptres,core,no,Tyrant's Sekhem,5,5 d,58,99,,99,"Str 99, Int 99",no,https://www.poewiki.net/wiki/Sign_of_the_Sin_Eater
+Singularity,Sceptre,Sceptres,core,no,Platinum Sceptre,4,4 d,62,113,,113,"Str 113, Int 113",yes,https://www.poewiki.net/wiki/Singularity
+The Black Cane,Sceptre,Sceptres,core,no,Royal Sceptre,4,4 d,50,86,,86,"Str 86, Int 86",no,https://www.poewiki.net/wiki/The_Black_Cane
+The Dark Seer,Sceptre,Sceptres,core,no,Shadow Sceptre,3,3,32,52,,62,"Str 52, Int 62",no,https://www.poewiki.net/wiki/The_Dark_Seer
+The Supreme Truth,Sceptre,Sceptres,core,no,Crystal Sceptre,3,3 d,41,59,,85,"Str 59, Int 85",no,https://www.poewiki.net/wiki/The_Supreme_Truth
+Brightbeak,One Hand Mace,One Hand Maces,core,no,War Hammer,5,5 d,20,71,,,Str 71,no,https://www.poewiki.net/wiki/Brightbeak
+Callinellus Malleus,One Hand Mace,One Hand Maces,core,no,Auric Mace,5,5 d,66,212,,,Str 212,no,https://www.poewiki.net/wiki/Callinellus_Malleus
+Cameria's Maul,One Hand Mace,One Hand Maces,core,no,Gavel,5,5 d,60,212,,,Str 212,no,https://www.poewiki.net/wiki/Cameria's_Maul
+Clayshaper,One Hand Mace,One Hand Maces,core,no,Rock Breaker,5,5 d,41,134,,,Str 134,no,https://www.poewiki.net/wiki/Clayshaper
+Flesh-Eater,One Hand Mace,One Hand Maces,core,no,Dream Mace,5,5 d,32,107,,,Str 107,no,https://www.poewiki.net/wiki/Flesh-Eater
+Frostbreath,One Hand Mace,One Hand Maces,core,no,Ornate Mace,4,4 d,50,161,,,Str 161,yes,https://www.poewiki.net/wiki/Frostbreath
+Lavianga's Wisdom,One Hand Mace,One Hand Maces,core,no,War Hammer,5,5 d,20,71,,,Str 71,no,https://www.poewiki.net/wiki/Lavianga's_Wisdom
+Mjölner,One Hand Mace,One Hand Maces,core,no,Gavel,2,2 d,60,212,,,Str 212,yes,https://www.poewiki.net/wiki/Mjölner
+The Monastery Bell,One Hand Mace,One Hand Maces,core,no,Dream Mace,4,4,32,107,,,Str 107,no,https://www.poewiki.net/wiki/The_Monastery_Bell
+Gorebreaker,One Hand Mace,One Hand Maces,core,no,Spiked Club,5,5 d,10,41,,,Str 41,no,https://www.poewiki.net/wiki/Gorebreaker
+Doomsower,Two Hand Sword,Two Hand Swords,core,no,Lion Sword,3,3 u,65,104,122,,"Str 104, Dex 122",yes,https://www.poewiki.net/wiki/Doomsower
+Edge of Madness,Two Hand Sword,Two Hand Swords,core,no,Etched Greatsword,4,4 d,22,45,38,,"Str 45, Dex 38",yes,https://www.poewiki.net/wiki/Edge_of_Madness
+Hiltless,Two Hand Sword,Two Hand Swords,core,no,Reaver Sword,4,4 d,59,82,119,,"Str 82, Dex 119",no,https://www.poewiki.net/wiki/Hiltless
+Kondo's Pride,Two Hand Sword,Two Hand Swords,core,no,Ezomyte Blade,5,5 d,61,113,113,,"Str 113, Dex 113",no,https://www.poewiki.net/wiki/Kondo's_Pride
+Oro's Sacrifice,Two Hand Sword,Two Hand Swords,core,no,Infernal Sword,5,5 d,67,113,113,,"Str 113, Dex 113",no,https://www.poewiki.net/wiki/Oro's_Sacrifice
+Queen's Decree,Two Hand Sword,Two Hand Swords,core,no,Ornate Sword,5,5 d,27,45,54,,"Str 45, Dex 54",no,https://www.poewiki.net/wiki/Queen's_Decree
+Rakiata's Dance,Two Hand Sword,Two Hand Swords,core,no,Engraved Greatsword,0,0 d,48,91,76,,"Str 91, Dex 76",no,https://www.poewiki.net/wiki/Rakiata's_Dance
+Rigwald's Charge,Two Hand Sword,Two Hand Swords,core,no,Highland Blade,5,5 d,44,77,77,,"Str 77, Dex 77",no,https://www.poewiki.net/wiki/Rigwald's_Charge
+Shiversting,Two Hand Sword,Two Hand Swords,core,no,Bastard Sword,5,5 d,14,21,30,,"Str 21, Dex 30",no,https://www.poewiki.net/wiki/Shiversting
+Terminus Est,Two Hand Sword,Two Hand Swords,core,no,Tiger Sword,5,5 d,51,80,96,,"Str 80, Dex 96",no,https://www.poewiki.net/wiki/Terminus_Est
+The Dancing Dervish,Two Hand Sword,Two Hand Swords,core,no,Reaver Sword,4,4 d,59,82,119,,"Str 82, Dex 119",yes,https://www.poewiki.net/wiki/The_Dancing_Dervish
+Ichimonji,One Hand Sword,3x1 One Hand Swords,core,no,Corsair Sword,4,4 d,58,81,117,,"Str 81, Dex 117",no,https://www.poewiki.net/wiki/Ichimonji
+Redbeak,One Hand Sword,3x1 One Hand Swords,core,no,Rusted Sword,5,5 d,1,8,8,,"Str 8, Dex 8",no,https://www.poewiki.net/wiki/Redbeak
+The Princess,One Hand Sword,3x1 One Hand Swords,core,no,Sabre,5,5 d,10,18,26,,"Str 18, Dex 26",no,https://www.poewiki.net/wiki/The_Princess
+Ahn's Might,One Hand Sword,3x2 One Hand Swords,core,no,Midnight Blade,4,4 d,68,113,113,,"Str 113, Dex 113",no,https://www.poewiki.net/wiki/Ahn's_Might
+Beltimber Blade,One Hand Sword,3x2 One Hand Swords,core,no,Eternal Sword,3,3 u,66,104,122,,"Str 104, Dex 122",no,https://www.poewiki.net/wiki/Beltimber_Blade
+Dreamfeather,One Hand Sword,3x2 One Hand Swords,core,no,Eternal Sword,3,3 u,66,104,122,,"Str 104, Dex 122",yes,https://www.poewiki.net/wiki/Dreamfeather
+Ephemeral Edge,One Hand Sword,3x2 One Hand Swords,core,no,Dusk Blade,0,0 u,32,57,57,,"Str 57, Dex 57",no,https://www.poewiki.net/wiki/Ephemeral_Edge
+Grelwood Shank,One Hand Sword,3x2 One Hand Swords,core,no,Eternal Sword,3,3 u,66,104,122,,"Str 104, Dex 122",no,https://www.poewiki.net/wiki/Grelwood_Shank
+Hyaon's Fury,One Hand Sword,3x2 One Hand Swords,core,no,Legion Sword,4,4 d,62,122,104,,"Str 122, Dex 104",no,https://www.poewiki.net/wiki/Hyaon's_Fury
+Innsbury Edge,One Hand Sword,3x2 One Hand Swords,core,no,Elder Sword,4,4 d,47,81,81,,"Str 81, Dex 81",no,https://www.poewiki.net/wiki/Innsbury_Edge
+Lakishu's Blade,One Hand Sword,3x2 One Hand Swords,core,no,Elegant Sword,5,5 d,28,46,55,,"Str 46, Dex 55",no,https://www.poewiki.net/wiki/Lakishu's_Blade
+Nametaker,One Hand Sword,3x2 One Hand Swords,core,no,Graceful Sword,,,50,78,94,,"Str 78, Dex 94",no,https://www.poewiki.net/wiki/Nametaker
+Prismatic Eclipse,One Hand Sword,3x2 One Hand Swords,core,no,Twilight Blade,5,5 d,53,91,91,,"Str 91, Dex 91",no,https://www.poewiki.net/wiki/Prismatic_Eclipse
+Razor of the Seventh Sun,One Hand Sword,3x2 One Hand Swords,core,no,Midnight Blade,3,3 u,68,113,113,,"Str 113, Dex 113",yes,https://www.poewiki.net/wiki/Razor_of_the_Seventh_Sun
+Rebuke of the Vaal,One Hand Sword,3x2 One Hand Swords,core,no,Vaal Blade,3,3 u,64,113,113,,"Str 113, Dex 113",yes,https://www.poewiki.net/wiki/Rebuke_of_the_Vaal
+Rigwald's Command,One Hand Sword,3x2 One Hand Swords,core,no,Midnight Blade,4,4 d,68,113,113,,"Str 113, Dex 113",yes,https://www.poewiki.net/wiki/Rigwald's_Command
+Scaeva,One Hand Sword,3x2 One Hand Swords,core,no,Gladius,4,4 d,60,113,113,,"Str 113, Dex 113",no,https://www.poewiki.net/wiki/Scaeva
+The Surging Thoughts,One Hand Sword,3x2 One Hand Swords,core,no,Legion Sword,,,62,122,104,,"Str 122, Dex 104",no,https://www.poewiki.net/wiki/The_Surging_Thoughts
+The Tempestuous Steel,One Hand Sword,3x2 One Hand Swords,core,no,War Sword,5,5 d,20,41,35,,"Str 41, Dex 35",no,https://www.poewiki.net/wiki/The_Tempestuous_Steel
+Varunastra,One Hand Sword,3x2 One Hand Swords,core,no,Vaal Blade,0,0 u,64,113,113,,"Str 113, Dex 113",no,https://www.poewiki.net/wiki/Varunastra
+Aurumvorax,Thrusting One Hand Sword,4x1 One Hand Swords,core,no,Basket Rapier,5,5 d,17,,62,,Dex 62,no,https://www.poewiki.net/wiki/Aurumvorax
+Cospri's Malice,Thrusting One Hand Sword,4x1 One Hand Swords,core,no,Jewelled Foil,2,2 d,68,,212,,Dex 212,yes,https://www.poewiki.net/wiki/Cospri's_Malice
+Daresso's Passion,Thrusting One Hand Sword,4x1 One Hand Swords,core,no,Estoc,5,5 d,43,,140,,Dex 140,no,https://www.poewiki.net/wiki/Daresso's_Passion
+Ewar's Mirage,Thrusting One Hand Sword,4x1 One Hand Swords,core,no,Antique Rapier,5,5 d,26,,89,,Dex 89,no,https://www.poewiki.net/wiki/Ewar's_Mirage
+Fidelitas' Spike,Thrusting One Hand Sword,4x1 One Hand Swords,core,no,Jagged Foil,5,5 d,22,,77,,Dex 77,no,https://www.poewiki.net/wiki/Fidelitas'_Spike
+The Goddess Bound,Thrusting One Hand Sword,4x1 One Hand Swords,core,no,Whalebone Rapier,4,4 d,7,,32,,Dex 32,no,https://www.poewiki.net/wiki/The_Goddess_Bound
+Agnerod East,Staff,4x2 Staves,core,no,Imperial Staff,4,4 d,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Agnerod_East
+Agnerod North,Staff,4x2 Staves,core,no,Imperial Staff,4,4 d,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Agnerod_North
+Agnerod South,Staff,4x2 Staves,core,no,Imperial Staff,4,4 d,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Agnerod_South
+Agnerod West,Staff,4x2 Staves,core,no,Imperial Staff,4,4 d,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Agnerod_West
+Cane of Unravelling,Warstaff,4x2 Staves,core,no,Ezomyte Staff,4,4 d,60,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Cane_of_Unravelling
+Dying Breath,Warstaff,4x2 Staves,core,no,Iron Staff,5,5 d,13,27,,27,"Str 27, Int 27",no,https://www.poewiki.net/wiki/Dying_Breath
+Femurs of the Saints,Staff,4x2 Staves,core,no,Primordial Staff,5,5 d,58,99,,99,"Str 99, Int 99",no,https://www.poewiki.net/wiki/Femurs_of_the_Saints
+Hegemony's Era,Warstaff,4x2 Staves,core,no,Judgement Staff,3,3 d,68,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Hegemony's_Era
+Jiquani's Potential,Staff,4x2 Staves,core,no,Imperial Staff,3,3 u,66,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Jiquani's_Potential
+Martyr of Innocence,Staff,4x2 Staves,core,no,Highborn Staff,1,1 d,52,89,,89,"Str 89, Int 89",no,https://www.poewiki.net/wiki/Martyr_of_Innocence
+Pillar of the Caged God,Warstaff,4x2 Staves,core,no,Iron Staff,5,5 d,13,27,,27,"Str 27, Int 27",no,https://www.poewiki.net/wiki/Pillar_of_the_Caged_God
+Realmshaper,Warstaff,4x2 Staves,core,no,Iron Staff,5,5 d,13,27,,27,"Str 27, Int 27",no,https://www.poewiki.net/wiki/Realmshaper
+Sire of Shards,Warstaff,4x2 Staves,core,no,Serpentine Staff,4,4 d,49,85,,85,"Str 85, Int 85",yes,https://www.poewiki.net/wiki/Sire_of_Shards
+Soulwrest,Warstaff,4x2 Staves,core,no,Ezomyte Staff,4,4 d,60,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Soulwrest
+Taryn's Shiver,Warstaff,4x2 Staves,core,no,Maelström Staff,3,3 d,64,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/Taryn's_Shiver
+The Burden of Shadows,Staff,4x2 Staves,core,no,Primordial Staff,,,58,99,,99,"Str 99, Int 99",no,https://www.poewiki.net/wiki/The_Burden_of_Shadows
+The Grey Spire,Warstaff,4x2 Staves,core,no,Judgement Staff,3,3 d,68,113,,113,"Str 113, Int 113",no,https://www.poewiki.net/wiki/The_Grey_Spire
+The Searing Touch,Staff,4x2 Staves,core,no,Lathi,3,3 d,62,113,,113,"Str 113, Int 113",yes,https://www.poewiki.net/wiki/The_Searing_Touch
+The Stormheart,Staff,4x2 Staves,core,no,Royal Staff,5,5 d,28,51,,51,"Str 51, Int 51",no,https://www.poewiki.net/wiki/The_Stormheart
+The Whispering Ice,Warstaff,4x2 Staves,core,no,Vile Staff,3,3 d,33,59,,59,"Str 59, Int 59",yes,https://www.poewiki.net/wiki/The_Whispering_Ice
+Tremor Rod,Warstaff,4x2 Staves,core,no,Military Staff,3,3 d,41,72,,72,"Str 72, Int 72",yes,https://www.poewiki.net/wiki/Tremor_Rod
+Fencoil,Staff,4x1 Staves,core,no,Gnarled Branch,5,5 d,1,12,,12,"Str 12, Int 12",no,https://www.poewiki.net/wiki/Fencoil
+The Blood Thorn,Staff,4x1 Staves,core,no,Gnarled Branch,5,5 d,1,12,,12,"Str 12, Int 12",no,https://www.poewiki.net/wiki/The_Blood_Thorn
+Arakaali's Fang,Rune Dagger,Daggers,core,no,Fiend Dagger,1,1 d,53,,58,123,"Dex 58, Int 123",no,https://www.poewiki.net/wiki/Arakaali's_Fang
+Bino's Kitchen Knife,Rune Dagger,Daggers,core,no,Slaughter Knife,0,0 d,65,,81,117,"Dex 81, Int 117",no,https://www.poewiki.net/wiki/Bino's_Kitchen_Knife
+Bloodplay,Dagger,Daggers,core,no,Stiletto,5,5 d,15,,30,30,"Dex 30, Int 30",no,https://www.poewiki.net/wiki/Bloodplay
+Cold Iron Point,Rune Dagger,Daggers,core,no,Ezomyte Dagger,3,3 d,62,,95,131,"Dex 95, Int 131",no,https://www.poewiki.net/wiki/Cold_Iron_Point
+Divinarius,Rune Dagger,Daggers,core,no,Imperial Skean,0,0 d,66,,95,131,"Dex 95, Int 131",no,https://www.poewiki.net/wiki/Divinarius
+Goblinedge,Dagger,Daggers,core,no,Ambusher,5,5 d,60,,113,113,"Dex 113, Int 113",no,https://www.poewiki.net/wiki/Goblinedge
+Goredrill,Dagger,Daggers,core,no,Skinning Knife,5,5 d,5,,16,11,"Dex 16, Int 11",no,https://www.poewiki.net/wiki/Goredrill
+Heartbreaker,Rune Dagger,Daggers,core,no,Royal Skean,5,5 d,50,,71,102,"Dex 71, Int 102",no,https://www.poewiki.net/wiki/Heartbreaker
+Mark of the Doubting Knight,Rune Dagger,Daggers,core,no,Platinum Kris,5,5 d,64,,76,149,"Dex 76, Int 149",no,https://www.poewiki.net/wiki/Mark_of_the_Doubting_Knight
+Mightflay,Dagger,Daggers,core,no,Flaying Knife,5,5 d,30,,64,44,"Dex 64, Int 44",no,https://www.poewiki.net/wiki/Mightflay
+Taproot,Dagger,Daggers,core,no,Ambusher,5,5 d,60,,113,113,"Dex 113, Int 113",no,https://www.poewiki.net/wiki/Taproot
+The Consuming Dark,Rune Dagger,Daggers,core,no,Fiend Dagger,4,4 d,53,,58,123,"Dex 58, Int 123",yes,https://www.poewiki.net/wiki/The_Consuming_Dark
+Ungil's Gauche,Rune Dagger,Daggers,core,no,Boot Knife,5,5 d,20,,31,45,"Dex 31, Int 45",no,https://www.poewiki.net/wiki/Ungil's_Gauche
+Vulconus,Rune Dagger,Daggers,core,no,Demon Dagger,3,3 d,68,,76,149,"Dex 76, Int 149",no,https://www.poewiki.net/wiki/Vulconus
+White Wind,Rune Dagger,Daggers,core,no,Imperial Skean,5,5 d,66,,95,131,"Dex 95, Int 131",no,https://www.poewiki.net/wiki/White_Wind
+Widowmaker,Rune Dagger,Daggers,core,no,Boot Blade,5,5 d,44,,63,90,"Dex 63, Int 90",no,https://www.poewiki.net/wiki/Widowmaker
+Advancing Fortress,Claw,Claws,core,no,Gut Ripper,5,5 d,46,,80,80,"Dex 80, Int 80",no,https://www.poewiki.net/wiki/Advancing_Fortress
+Al Dhih,Claw,Claws,core,no,Timeworn Claw,4,4 d,26,,39,56,"Dex 39, Int 56",yes,https://www.poewiki.net/wiki/Al_Dhih
+Allure,Claw,Claws,core,no,Vaal Claw,5,5 d,66,,95,131,"Dex 95, Int 131",no,https://www.poewiki.net/wiki/Allure
+Bloodseeker,Claw,Claws,core,no,Hellion's Paw,0,0 d,62,,131,95,"Dex 131, Int 95",no,https://www.poewiki.net/wiki/Bloodseeker
+Cybil's Paw,Claw,Claws,core,no,Thresher Claw,5,5 d,37,,53,77,"Dex 53, Int 77",yes,https://www.poewiki.net/wiki/Cybil's_Paw
+Essentia Sanguis,Claw,Claws,core,no,Vaal Claw,0,0 d,66,,95,131,"Dex 95, Int 131",no,https://www.poewiki.net/wiki/Essentia_Sanguis
+Last Resort,Claw,Claws,core,no,Nailed Fist,5,5 d,1,,11,11,"Dex 11, Int 11",no,https://www.poewiki.net/wiki/Last_Resort
+Mortem Morsu,Claw,Claws,core,no,Fright Claw,5,5 d,34,,61,61,"Dex 61, Int 61",no,https://www.poewiki.net/wiki/Mortem_Morsu
+Ornament of the East,Claw,Claws,core,no,Gut Ripper,5,5 d,46,,80,80,"Dex 80, Int 80",no,https://www.poewiki.net/wiki/Ornament_of_the_East
+Rive,Claw,Claws,core,no,Terror Claw,5,5 d,70,,113,113,"Dex 113, Int 113",yes,https://www.poewiki.net/wiki/Rive
+The Scourge,Claw,Claws,core,no,Terror Claw,3,3 d,70,,113,113,"Dex 113, Int 113",no,https://www.poewiki.net/wiki/The_Scourge
+The Wasp Nest,Claw,Claws,core,no,Throat Stabber,5,5 d,60,,113,113,"Dex 113, Int 113",no,https://www.poewiki.net/wiki/The_Wasp_Nest
+Touch of Anguish,Claw,Claws,core,no,Imperial Claw,4,4 d,68,,131,95,"Dex 131, Int 95",no,https://www.poewiki.net/wiki/Touch_of_Anguish
+Wildslash,Claw,Claws,core,no,Awl,5,5 d,12,,25,25,"Dex 25, Int 25",no,https://www.poewiki.net/wiki/Wildslash
+Abberath's Horn,Wand,Wands,core,no,Goat's Horn,5,5 d,6,,,29,Int 29,no,https://www.poewiki.net/wiki/Abberath's_Horn
+Apep's Rage,Wand,Wands,core,no,Omen Wand,3,3 d,53,,,200,Int 200,yes,https://www.poewiki.net/wiki/Apep's_Rage
+Ashcaller,Wand,Wands,core,no,Goat's Horn,4,4 d,6,,,29,Int 29,yes,https://www.poewiki.net/wiki/Ashcaller
+Eclipse Solaris,Wand,Wands,core,no,Faun's Horn,1,1 u,35,,,116,Int 116,no,https://www.poewiki.net/wiki/Eclipse_Solaris
+Lifesprig,Wand,Wands,core,no,Driftwood Wand,5,5 d,1,,,14,Int 14,no,https://www.poewiki.net/wiki/Lifesprig
+Midnight Bargain,Wand,Wands,core,no,Calling Wand,4,4 d,20,,,81,Int 81,yes,https://www.poewiki.net/wiki/Midnight_Bargain
+Moonsorrow,Wand,Wands,core,no,Kinetic Wand,5,5 d,59,,,188,Int 188,no,https://www.poewiki.net/wiki/Moonsorrow
+Mystic Refractor,Wand,Wands,core,no,Pagan Wand,3,3 u,34,,,118,Int 118,no,https://www.poewiki.net/wiki/Mystic_Refractor
+Obliteration,Wand,Wands,core,no,Omen Wand,5,5 d,53,,,200,Int 200,no,https://www.poewiki.net/wiki/Obliteration
+Piscator's Vigil,Wand,Wands,core,no,Kinetic Wand,4,4 d,59,,,188,Int 188,yes,https://www.poewiki.net/wiki/Piscator's_Vigil
+Reverberation Rod,Wand,Wands,core,no,Spiraled Wand,3,3 d,24,,,83,Int 83,yes,https://www.poewiki.net/wiki/Reverberation_Rod
+Shade of Solaris,Wand,Wands,core,no,Sage Wand,1,1 d,30,,,119,Int 119,no,https://www.poewiki.net/wiki/Shade_of_Solaris
+Storm Prison,Wand,Wands,core,no,Spiraled Wand,5,5 d,24,,,83,Int 83,no,https://www.poewiki.net/wiki/Storm_Prison
+The Poet's Pen,Wand,Wands,core,no,Somatic Wand,2,2 d,12,,,47,Int 47,yes,https://www.poewiki.net/wiki/The_Poet's_Pen
+Twyzel,Wand,Wands,core,no,Blasting Wand,5,5 d,40,,,131,Int 131,no,https://www.poewiki.net/wiki/Twyzel
+Unlight Extant,Wand,Wands,core,no,Sage Wand,4,4,30,,,119,Int 119,no,https://www.poewiki.net/wiki/Unlight_Extant
+Void Battery,Wand,Wands,core,no,Prophecy Wand,2,2 d,68,,,245,Int 245,yes,https://www.poewiki.net/wiki/Void_Battery
+Chin Sol,Bow,Bows,core,no,Assassin Bow,5,5 d,62,,212,,Dex 212,yes,https://www.poewiki.net/wiki/Chin_Sol
+Darkscorn,Bow,Bows,core,no,Assassin Bow,2,2 d,62,,212,,Dex 212,yes,https://www.poewiki.net/wiki/Darkscorn
+Death's Harp,Bow,Bows,core,no,Death Bow,3,3 d,32,,107,,Dex 107,yes,https://www.poewiki.net/wiki/Death's_Harp
+Doomfletch,Bow,Bows,core,no,Royal Bow,3,3 d,28,,95,,Dex 95,yes,https://www.poewiki.net/wiki/Doomfletch
+Infractem,Bow,Bows,core,no,Decimation Bow,5,5 d,53,,170,,Dex 170,no,https://www.poewiki.net/wiki/Infractem
+Iron Commander,Bow,Bows,core,no,Death Bow,4,4 d,32,,107,,Dex 107,no,https://www.poewiki.net/wiki/Iron_Commander
+Lioneye's Glare,Bow,Bows,core,no,Imperial Bow,0,0 d,66,,212,,Dex 212,no,https://www.poewiki.net/wiki/Lioneye's_Glare
+Null's Inclination,Bow,Bows,core,no,Ranger Bow,3,3 d,60,,212,,Dex 212,yes,https://www.poewiki.net/wiki/Null's_Inclination
+Nuro's Harp,Bow,Bows,core,no,Harbinger Bow,5,5 d,68,,212,,Dex 212,no,https://www.poewiki.net/wiki/Nuro's_Harp
+Quill Rain,Bow,Bows,core,no,Short Bow,4,4 d,5,,26,,Dex 26,yes,https://www.poewiki.net/wiki/Quill_Rain
+Reach of the Council,Bow,Bows,core,no,Spine Bow,3,3 d,64,,212,,Dex 212,no,https://www.poewiki.net/wiki/Reach_of_the_Council
+Roth's Reach,Bow,Bows,core,no,Recurve Bow,5,5 d,18,,65,,Dex 65,no,https://www.poewiki.net/wiki/Roth's_Reach
+Silverbranch,Bow,Bows,core,no,Crude Bow,5,5 d,1,,14,,Dex 14,no,https://www.poewiki.net/wiki/Silverbranch
+Slivertongue,Bow,Bows,core,no,Harbinger Bow,4,4 d,68,,212,,Dex 212,no,https://www.poewiki.net/wiki/Slivertongue
+Storm Cloud,Bow,Bows,core,no,Long Bow,5,5 d,9,,38,,Dex 38,no,https://www.poewiki.net/wiki/Storm_Cloud
+Voltaxic Rift,Bow,Bows,core,no,Spine Bow,0,0 d,64,,212,,Dex 212,no,https://www.poewiki.net/wiki/Voltaxic_Rift
+Widowhail,Bow,Bows,core,no,Crude Bow,3,3 d,1,,14,,Dex 14,no,https://www.poewiki.net/wiki/Widowhail
+Windripper,Bow,Bows,core,no,Imperial Bow,2,2 d,66,,212,,Dex 212,no,https://www.poewiki.net/wiki/Windripper
+Azadi Crest,Shield,2x2 Shields,core,no,Lacquered Buckler,4,4,60,,154,,Dex 154,no,https://www.poewiki.net/wiki/Azadi_Crest
+Chalice of Horrors,Shield,2x2 Shields,core,no,War Buckler,4,4 d,29,,74,,Dex 74,yes,https://www.poewiki.net/wiki/Chalice_of_Horrors
+Crest of Perandus,Shield,2x2 Shields,core,no,Pine Buckler,5,5 d,8,,26,,Dex 26,no,https://www.poewiki.net/wiki/Crest_of_Perandus
+Great Old One's Ward,Shield,2x2 Shields,core,no,Corrugated Buckler,4,4 d,46,,112,,Dex 112,yes,https://www.poewiki.net/wiki/Great_Old_One's_Ward
+Jaws of Agony,Shield,2x2 Shields,core,no,Supreme Spiked Shield,5,5 d,70,,85,85,"Dex 85, Int 85",no,https://www.poewiki.net/wiki/Jaws_of_Agony
+Kaltenhalt,Shield,2x2 Shields,core,no,Painted Buckler,5,5 d,16,,44,,Dex 44,no,https://www.poewiki.net/wiki/Kaltenhalt
+Kiloava's Bluster,Shield,2x2 Shields,core,no,Ironwood Buckler,4,4 d,57,,137,,Dex 137,yes,https://www.poewiki.net/wiki/Kiloava's_Bluster
+Kongming's Stratagem,Shield,2x2 Shields,core,no,Ancient Spirit Shield,4,4 d,45,,,110,Int 110,yes,https://www.poewiki.net/wiki/Kongming's_Stratagem
+Leper's Alms,Shield,2x2 Shields,core,no,Mirrored Spiked Shield,5,5 d,66,,85,85,"Dex 85, Int 85",no,https://www.poewiki.net/wiki/Leper's_Alms
+Light of Lunaris,Shield,2x2 Shields,core,no,Jingling Spirit Shield,1,1 d,28,,,71,Int 71,no,https://www.poewiki.net/wiki/Light_of_Lunaris
+Malachai's Loop,Shield,2x2 Shields,core,no,Harmonic Spirit Shield,4,4 d,65,,,159,Int 159,yes,https://www.poewiki.net/wiki/Malachai's_Loop
+Maligaro's Lens,Shield,2x2 Shields,core,no,Compound Spiked Shield,5,5 d,45,,59,59,"Dex 59, Int 59",no,https://www.poewiki.net/wiki/Maligaro's_Lens
+Manastorm,Shield,2x2 Shields,core,no,Lacewood Spirit Shield,3,3,56,,,134,Int 134,no,https://www.poewiki.net/wiki/Manastorm
+Matua Tupuna,Shield,2x2 Shields,core,no,Tarnished Spirit Shield,4,4 d,63,,,60,Int 60,yes,https://www.poewiki.net/wiki/Matua_Tupuna
+Mistwall,Shield,2x2 Shields,core,no,Lacquered Buckler,3,3 d,60,,154,,Dex 154,no,https://www.poewiki.net/wiki/Mistwall
+Rathpith Globe,Shield,2x2 Shields,core,no,Titanium Spirit Shield,2,2 d,68,,,159,Int 159,yes,https://www.poewiki.net/wiki/Rathpith_Globe
+Sentari's Answer,Shield,2x2 Shields,core,no,Brass Spirit Shield,4,4 d,33,,,83,Int 83,no,https://www.poewiki.net/wiki/Sentari's_Answer
+The Eternal Apple,Shield,2x2 Shields,core,no,Chiming Spirit Shield,5,5 d,49,,,119,Int 119,no,https://www.poewiki.net/wiki/The_Eternal_Apple
+Thousand Teeth Temu,Shield,2x2 Shields,core,no,Vaal Buckler,5,5 d,63,,159,,Dex 159,no,https://www.poewiki.net/wiki/Thousand_Teeth_Temu
+Zeel's Amplifier,Shield,2x2 Shields,core,no,Polished Spiked Shield,5,5 d,49,,64,64,"Dex 64, Int 64",no,https://www.poewiki.net/wiki/Zeel's_Amplifier
+Aegis Aurora,Shield,3x2 Shields,core,no,Champion Kite Shield,2,2 d,62,85,,85,"Str 85, Int 85",yes,https://www.poewiki.net/wiki/Aegis_Aurora
+Daresso's Courage,Shield,3x2 Shields,core,no,Baroque Round Shield,3,3 d,54,70,70,,"Str 70, Dex 70",no,https://www.poewiki.net/wiki/Daresso's_Courage
+Emperor's Vigilance,Shield,3x2 Shields,core,no,Steel Kite Shield,2,2 d,46,60,,60,"Str 60, Int 60",yes,https://www.poewiki.net/wiki/Emperor's_Vigilance
+Prism Guardian,Shield,3x2 Shields,core,no,Archon Kite Shield,2,2 d,68,85,,85,"Str 85, Int 85",yes,https://www.poewiki.net/wiki/Prism_Guardian
+Rise of the Phoenix,Shield,3x2 Shields,core,no,Mosaic Kite Shield,4,4 d,65,85,,85,"Str 85, Int 85",yes,https://www.poewiki.net/wiki/Rise_of_the_Phoenix
+Saffell's Frame,Shield,3x2 Shields,core,no,Branded Kite Shield,3,3 d,59,76,,76,"Str 76, Int 76",yes,https://www.poewiki.net/wiki/Saffell's_Frame
+Springleaf,Shield,3x2 Shields,core,no,Plank Kite Shield,5,5 d,7,13,,13,"Str 13, Int 13",no,https://www.poewiki.net/wiki/Springleaf
+The Deep One's Hide,Shield,3x2 Shields,core,no,Studded Round Shield,5,5 d,20,29,29,,"Str 29, Dex 29",no,https://www.poewiki.net/wiki/The_Deep_One's_Hide
+The Flawed Refuge,Shield,3x2 Shields,core,no,Maple Round Shield,,,39,52,52,,"Str 52, Dex 52",no,https://www.poewiki.net/wiki/The_Flawed_Refuge
+The Ghastly Theatre,Shield,3x2 Shields,core,no,Teak Round Shield,4,4 d,58,74,74,,"Str 74, Dex 74",no,https://www.poewiki.net/wiki/The_Ghastly_Theatre
+The Oppressor,Shield,3x2 Shields,core,no,Elegant Round Shield,5,5 d,70,85,85,,"Str 85, Dex 85",yes,https://www.poewiki.net/wiki/The_Oppressor
+The Shattered Divinity,Quiver,3x2 Shields,core,no,Blunt Arrow Quiver,,,60,,,,None,no,https://www.poewiki.net/wiki/The_Shattered_Divinity
+The Squire,Shield,3x2 Shields,core,no,Elegant Round Shield,0,0 d,70,85,85,,"Str 85, Dex 85",yes,https://www.poewiki.net/wiki/The_Squire
+Victario's Charity,Shield,3x2 Shields,core,no,Laminated Kite Shield,5,5 d,50,65,,65,"Str 65, Int 65",no,https://www.poewiki.net/wiki/Victario's_Charity
+Wheel of the Stormsail,Shield,3x2 Shields,core,no,Rotted Round Shield,5,5 d,5,11,11,,"Str 11, Dex 11",no,https://www.poewiki.net/wiki/Wheel_of_the_Stormsail
+Ahn's Heritage,Shield,4x2 Shields,core,no,Colossal Tower Shield,4,4 d,67,159,,,Str 159,no,https://www.poewiki.net/wiki/Ahn's_Heritage
+Chernobog's Pillar,Shield,4x2 Shields,core,no,Ebony Tower Shield,5,5 d,61,159,,,Str 159,no,https://www.poewiki.net/wiki/Chernobog's_Pillar
+Cowards' Wail,Shield,4x2 Shields,core,no,Ezomyte Tower Shield,3,3 u,64,159,,,Str 159,no,https://www.poewiki.net/wiki/Cowards'_Wail
+Lioneye's Remorse,Shield,4x2 Shields,core,no,Pinnacle Tower Shield,3,3 d,70,159,,,Str 159,yes,https://www.poewiki.net/wiki/Lioneye's_Remorse
+Lycosidae,Shield,4x2 Shields,core,no,Rawhide Tower Shield,3,3 d,11,33,,,Str 33,no,https://www.poewiki.net/wiki/Lycosidae
+Titucius' Span,Shield,4x2 Shields,core,no,Reinforced Tower Shield,5,5 d,30,76,,,Str 76,no,https://www.poewiki.net/wiki/Titucius'_Span
+Trolltimber Spire,Shield,4x2 Shields,core,no,Cedar Tower Shield,4,4 d,17,47,,,Str 47,no,https://www.poewiki.net/wiki/Trolltimber_Spire
+Tukohama's Fortress,Shield,4x2 Shields,core,no,Ebony Tower Shield,1,1 d,61,159,,,Str 159,no,https://www.poewiki.net/wiki/Tukohama's_Fortress
+Ahuana's Bite,Quiver,Quivers,core,no,Sharktooth Arrow Quiver,4,4 d,56,,,,None,no,https://www.poewiki.net/wiki/Ahuana's_Bite
+Asphyxia's Wrath,Quiver,Quivers,core,no,Feathered Arrow Quiver,5,5 d,20,,,,None,no,https://www.poewiki.net/wiki/Asphyxia's_Wrath
+Blackgleam,Quiver,Quivers,core,no,Blazing Arrow Quiver,5,5 d,45,,,,None,no,https://www.poewiki.net/wiki/Blackgleam
+Craghead,Quiver,Quivers,core,no,Serrated Arrow Quiver,5,5 d,4,,,,None,no,https://www.poewiki.net/wiki/Craghead
+Drillneck,Quiver,Quivers,core,no,Penetrating Arrow Quiver,4,4 d,36,,,,None,yes,https://www.poewiki.net/wiki/Drillneck
+Hyrri's Bite,Quiver,Quivers,core,no,Sharktooth Arrow Quiver,5,5 d,14,,,,None,no,https://www.poewiki.net/wiki/Hyrri's_Bite
+Maloney's Mechanism,Quiver,Quivers,core,no,Ornate Quiver,2,2 d,45,,,,None,yes,https://www.poewiki.net/wiki/Maloney's_Mechanism
+Maloney's Nightfall,Quiver,Quivers,core,no,Vile Arrow Quiver,5,5 d,55,,,,None,no,https://www.poewiki.net/wiki/Maloney's_Nightfall
+Rearguard,Quiver,Quivers,core,no,Blunt Arrow Quiver,4,4 d,31,,,,None,yes,https://www.poewiki.net/wiki/Rearguard
+Rigwald's Quills,Quiver,Quivers,core,no,Two-Point Arrow Quiver,2,2 d,56,,,,None,yes,https://www.poewiki.net/wiki/Rigwald's_Quills
+Saemus' Gift,Quiver,Quivers,core,no,Feathered Arrow Quiver,5,5 d,45,,,,None,no,https://www.poewiki.net/wiki/Saemus'_Gift
+Scorpion's Call,Quiver,Quivers,core,no,Heavy Arrow Quiver,4,4 d,61,,,,None,no,https://www.poewiki.net/wiki/Scorpion's_Call
+Skirmish,Quiver,Quivers,core,no,Two-Point Arrow Quiver,5,5 d,36,,,,None,no,https://www.poewiki.net/wiki/Skirmish
+Soul Strike,Quiver,Quivers,core,no,Spike-Point Arrow Quiver,4,4 d,64,,,,None,yes,https://www.poewiki.net/wiki/Soul_Strike
+The Poised Prism,Quiver,Quivers,core,no,Primal Arrow Quiver,4,4 d,66,,,,None,no,https://www.poewiki.net/wiki/The_Poised_Prism
+Abyssus,Helmet,Helmets,core,no,Ezomyte Burgonet,3,3 d,60,138,,,Str 138,yes,https://www.poewiki.net/wiki/Abyssus
+Ahn's Contempt,Helmet,Helmets,core,no,Praetor Crown,4,4 d,68,62,,91,"Str 62, Int 91",no,https://www.poewiki.net/wiki/Ahn's_Contempt
+Akoya's Gaze,Helmet,Helmets,core,no,Regicide Mask,3,2 u -3 d,52,,58,58,"Dex 58, Int 58",no,https://www.poewiki.net/wiki/Akoya's_Gaze
+Alpha's Howl,Helmet,Helmets,core,no,Sinner Tricorne,3,3 d,64,,138,,Dex 138,yes,https://www.poewiki.net/wiki/Alpha's_Howl
+Ancient Skull,Helmet,Helmets,core,no,Bone Helmet,4,4 d,73,76,,76,"Str 76, Int 76",no,https://www.poewiki.net/wiki/Ancient_Skull
+Asenath's Mark,Helmet,Helmets,core,no,Iron Circlet,2,2 d,8,,,23,Int 23,yes,https://www.poewiki.net/wiki/Asenath's_Mark
+Assailum,Helmet,Helmets,core,no,Sinner Tricorne,3,3 d,64,,138,,Dex 138,no,https://www.poewiki.net/wiki/Assailum
+Black Sun Crest,Helmet,Helmets,core,no,Lacquered Helmet,5,5 d,51,57,57,,"Str 57, Dex 57",no,https://www.poewiki.net/wiki/Black_Sun_Crest
+Blood Price,Helmet,Helmets,core,no,Reaver Helmet,3,3 d,40,85,,,Str 85,no,https://www.poewiki.net/wiki/Blood_Price
+Chitus' Apex,Helmet,Helmets,core,no,Necromancer Circlet,3,3 d,54,,,112,Int 112,no,https://www.poewiki.net/wiki/Chitus'_Apex
+Crown of Eyes,Helmet,Helmets,core,no,Hubris Circlet,3,3 d,69,,,154,Int 154,no,https://www.poewiki.net/wiki/Crown_of_Eyes
+Crown of the Pale King,Helmet,Helmets,core,no,Regicide Mask,4,4 d,52,,58,58,"Dex 58, Int 58",yes,https://www.poewiki.net/wiki/Crown_of_the_Pale_King
+Crown of Thorns,Helmet,Helmets,core,no,Vine Circlet,5,5 d,1,,,13,Int 13,no,https://www.poewiki.net/wiki/Crown_of_Thorns
+Curtain Call,Helmet,Helmets,core,no,Plague Mask,4,4 d,20,,14,14,"Dex 14, Int 14",no,https://www.poewiki.net/wiki/Curtain_Call
+Deidbell,Helmet,Helmets,core,no,Gilded Sallet,3,3 d,33,38,38,,"Str 38, Dex 38",yes,https://www.poewiki.net/wiki/Deidbell
+Devoto's Devotion,Helmet,Helmets,core,no,Nightmare Bascinet,5,5 d,67,62,85,,"Str 62, Dex 85",yes,https://www.poewiki.net/wiki/Devoto's_Devotion
+Doedre's Scorn,Helmet,Helmets,core,no,Lunaris Circlet,4,4 d,39,,,83,Int 83,yes,https://www.poewiki.net/wiki/Doedre's_Scorn
+Eber's Unification,Helmet,Helmets,core,no,Hubris Circlet,4,4 d,69,,,154,Int 154,no,https://www.poewiki.net/wiki/Eber's_Unification
+Elevore,Helmet,Helmets,core,no,Wolf Pelt,5,5 d,30,,66,,Dex 66,no,https://www.poewiki.net/wiki/Elevore
+Eye of Malice,Helmet,Helmets,core,no,Callous Mask,4,4 d,45,,51,51,"Dex 51, Int 51",no,https://www.poewiki.net/wiki/Eye_of_Malice
+Ezomyte Peak,Helmet,Helmets,core,no,Iron Hat,5,5 d,1,9,,,Str 9,no,https://www.poewiki.net/wiki/Ezomyte_Peak
+Fairgraves' Tricorne,Helmet,Helmets,core,no,Tricorne,3,3 d,12,,27,,Dex 27,no,https://www.poewiki.net/wiki/Fairgraves'_Tricorne
+Flamesight,Helmet,Helmets,core,no,Solaris Circlet,3,3 d,59,,,122,Int 122,no,https://www.poewiki.net/wiki/Flamesight
+Fractal Thoughts,Helmet,Helmets,core,no,Vaal Mask,3,3 d,62,,79,72,"Dex 79, Int 72",no,https://www.poewiki.net/wiki/Fractal_Thoughts
+Galesight,Helmet,Helmets,core,no,Solaris Circlet,3,3 d,59,,,122,Int 122,no,https://www.poewiki.net/wiki/Galesight
+Geofri's Crest,Helmet,Helmets,core,no,Great Crown,4,4 d,53,59,,59,"Str 59, Int 59",yes,https://www.poewiki.net/wiki/Geofri's_Crest
+Goldrim,Helmet,Helmets,core,no,Leather Cap,4,4 d,1,,13,,Dex 13,yes,https://www.poewiki.net/wiki/Goldrim
+Heatshiver,Helmet,Helmets,core,no,Leather Hood,3,3 d,20,,46,,Dex 46,yes,https://www.poewiki.net/wiki/Heatshiver
+Heretic's Veil,Helmet,Helmets,core,no,Deicide Mask,2,2 d,67,,73,88,"Dex 73, Int 88",no,https://www.poewiki.net/wiki/Heretic's_Veil
+Honourhome,Helmet,Helmets,core,no,Soldier Helmet,5,5 d,12,16,,16,"Str 16, Int 16",no,https://www.poewiki.net/wiki/Honourhome
+Howlcrack,Helmet,Helmets,core,no,Ezomyte Burgonet,3,3 u,60,138,,,Str 138,no,https://www.poewiki.net/wiki/Howlcrack
+Hrimnor's Resolve,Helmet,Helmets,core,no,Samnite Helmet,5,5 d,55,114,,,Str 114,no,https://www.poewiki.net/wiki/Hrimnor's_Resolve
+Kitava's Thirst,Helmet,Helmets,core,no,Zealot Helmet,4,4 d,44,50,,50,"Str 50, Int 50",yes,https://www.poewiki.net/wiki/Kitava's_Thirst
+Leer Cast,Helmet,Helmets,core,no,Festival Mask,5,5 d,28,,33,33,"Dex 33, Int 33",no,https://www.poewiki.net/wiki/Leer_Cast
+Malachai's Simula,Helmet,Helmets,core,no,Iron Mask,4,4 d,17,,21,21,"Dex 21, Int 21",yes,https://www.poewiki.net/wiki/Malachai's_Simula
+Mark of the Red Covenant,Helmet,Helmets,core,no,Tribal Circlet,5,5 d,26,,,58,Int 58,no,https://www.poewiki.net/wiki/Mark_of_the_Red_Covenant
+Maw of Conquest,Helmet,Helmets,core,no,Steel Circlet,3,3 d,48,,,101,Int 101,no,https://www.poewiki.net/wiki/Maw_of_Conquest
+Memory Vault,Helmet,Helmets,core,no,Praetor Crown,3,3 d,68,62,,91,"Str 62, Int 91",no,https://www.poewiki.net/wiki/Memory_Vault
+Mind of the Council,Helmet,Helmets,core,no,Harlequin Mask,3,3 d,57,,64,64,"Dex 64, Int 64",yes,https://www.poewiki.net/wiki/Mind_of_the_Council
+Mindspiral,Helmet,Helmets,core,no,Aventail Helmet,5,5 d,37,42,,42,"Str 42, Int 42",no,https://www.poewiki.net/wiki/Mindspiral
+Obscurantis,Helmet,Helmets,core,no,Lion Pelt,4,4 d,70,,150,,Dex 150,no,https://www.poewiki.net/wiki/Obscurantis
+Rat's Nest,Helmet,Helmets,core,no,Ursine Pelt,5,5 d,55,,114,,Dex 114,no,https://www.poewiki.net/wiki/Rat's_Nest
+Rime Gaze,Helmet,Helmets,core,no,Mind Cage,3,3 d,65,,,138,Int 138,yes,https://www.poewiki.net/wiki/Rime_Gaze
+Scold's Bridle,Helmet,Helmets,core,no,Mind Cage,3,3 d,65,,,138,Int 138,yes,https://www.poewiki.net/wiki/Scold's_Bridle
+Skullhead,Helmet,Helmets,core,no,Secutor Helm,5,5 d,36,42,42,,"Str 42, Dex 42",no,https://www.poewiki.net/wiki/Skullhead
+Speaker's Wreath,Helmet,Helmets,core,no,Prophet Crown,4,4 d,63,85,,62,"Str 85, Int 62",no,https://www.poewiki.net/wiki/Speaker's_Wreath
+Starkonja's Head,Helmet,Helmets,core,no,Silken Hood,4,4 d,60,,138,,Dex 138,yes,https://www.poewiki.net/wiki/Starkonja's_Head
+The Baron,Helmet,Helmets,core,no,Close Helmet,4,4 d,26,58,,,Str 58,yes,https://www.poewiki.net/wiki/The_Baron
+The Brine Crown,Helmet,Helmets,core,no,Prophet Crown,1,1 d,63,85,,62,"Str 85, Int 62",no,https://www.poewiki.net/wiki/The_Brine_Crown
+The Bringer of Rain,Helmet,Helmets,core,no,Nightmare Bascinet,3,3 d,67,62,85,,"Str 62, Dex 85",yes,https://www.poewiki.net/wiki/The_Bringer_of_Rain
+The Broken Crown,Helmet,Helmets,core,no,Prophet Crown,5,5 d,63,85,,62,"Str 85, Int 62",no,https://www.poewiki.net/wiki/The_Broken_Crown
+The Gull,Helmet,Helmets,core,no,Raven Mask,2,2 d,38,,44,44,"Dex 44, Int 44",yes,https://www.poewiki.net/wiki/The_Gull
+The Peregrine,Helmet,Helmets,core,no,Visored Sallet,5,5 d,23,28,28,,"Str 28, Dex 28",no,https://www.poewiki.net/wiki/The_Peregrine
+The Tempest's Liberation,Helmet,Helmets,core,no,Callous Mask,,,60,,51,51,"Dex 51, Int 51",no,https://www.poewiki.net/wiki/The_Tempest's_Liberation
+The Three Dragons,Helmet,Helmets,core,no,Golden Mask,5,5 d,35,,40,40,"Dex 40, Int 40",yes,https://www.poewiki.net/wiki/The_Three_Dragons
+The Trickster's Smile,Helmet,Helmets,core,no,Visored Sallet,4,4 d,23,28,28,,"Str 28, Dex 28",no,https://www.poewiki.net/wiki/The_Trickster's_Smile
+Thrillsteel,Helmet,Helmets,core,no,Barbute Helmet,5,5 d,18,42,,,Str 42,no,https://www.poewiki.net/wiki/Thrillsteel
+Thundersight,Helmet,Helmets,core,no,Solaris Circlet,3,3 d,59,,,122,Int 122,no,https://www.poewiki.net/wiki/Thundersight
+Usurper's Penance,Helmet,Helmets,core,no,Eternal Burgonet,3,3 d,69,138,,,Str 138,no,https://www.poewiki.net/wiki/Usurper's_Penance
+Veil of the Night,Helmet,Helmets,core,no,Great Helmet,4,4 d,22,27,,27,"Str 27, Int 27",yes,https://www.poewiki.net/wiki/Veil_of_the_Night
+Voll's Vision,Helmet,Helmets,core,no,Praetor Crown,3,3 d,68,62,,91,"Str 62, Int 91",yes,https://www.poewiki.net/wiki/Voll's_Vision
+Willclash,Helmet,Helmets,core,no,Golden Mask,5,5 d,35,,40,40,"Dex 40, Int 40",no,https://www.poewiki.net/wiki/Willclash
+Wilma's Requital,Helmet,Helmets,core,no,Solaris Circlet,3,3 d,59,,,122,Int 122,no,https://www.poewiki.net/wiki/Wilma's_Requital
+Wraithlord,Helmet,Helmets,core,no,Bone Circlet,4,4,34,,,73,Int 73,no,https://www.poewiki.net/wiki/Wraithlord
+Wreath of Phrecia,Helmet,Helmets,core,no,Iron Circlet,4,4 d,8,,,23,Int 23,no,https://www.poewiki.net/wiki/Wreath_of_Phrecia
+Ylfeban's Trickery,Helmet,Helmets,core,no,Hubris Circlet,3,3 d,69,,,154,Int 154,yes,https://www.poewiki.net/wiki/Ylfeban's_Trickery
+Algor Mortis,Gloves,Gloves,core,no,Carnal Mitts,4,4 d,50,,39,39,"Dex 39, Int 39",no,https://www.poewiki.net/wiki/Algor_Mortis
+Allelopathy,Gloves,Gloves,core,no,Satin Gloves,3,3 d,41,,,60,Int 60,no,https://www.poewiki.net/wiki/Allelopathy
+Asenath's Gentle Touch,Gloves,Gloves,core,no,Silk Gloves,3,3 d,25,,,39,Int 39,yes,https://www.poewiki.net/wiki/Asenath's_Gentle_Touch
+Aukuna's Will,Gloves,Gloves,core,no,Clasped Mitts,4,4 d,31,,25,25,"Dex 25, Int 25",no,https://www.poewiki.net/wiki/Aukuna's_Will
+Aurseize,Gloves,Gloves,core,no,Steelscale Gauntlets,3,3 d,36,29,29,,"Str 29, Dex 29",yes,https://www.poewiki.net/wiki/Aurseize
+Demon Stitcher,Gloves,Gloves,core,no,Satin Gloves,4,4 d,41,,,60,Int 60,no,https://www.poewiki.net/wiki/Demon_Stitcher
+Doedre's Tenure,Gloves,Gloves,core,no,Velvet Gloves,5,5 d,12,,,21,Int 21,no,https://www.poewiki.net/wiki/Doedre's_Tenure
+Doryani's Fist,Gloves,Gloves,core,no,Vaal Gauntlets,2,2 d,63,100,,,Str 100,yes,https://www.poewiki.net/wiki/Doryani's_Fist
+Empire's Grasp,Gloves,Gloves,core,no,Goliath Gauntlets,5,5 d,53,77,,,Str 77,no,https://www.poewiki.net/wiki/Empire's_Grasp
+Facebreaker,Gloves,Gloves,core,no,Strapped Mitts,4,4 d,16,,14,14,"Dex 14, Int 14",yes,https://www.poewiki.net/wiki/Facebreaker
+Flesh and Spirit,Gloves,Gloves,core,no,Ironscale Gauntlets,4,4 d,15,14,14,,"Str 14, Dex 14",yes,https://www.poewiki.net/wiki/Flesh_and_Spirit
+Giantsbane,Gloves,Gloves,core,no,Bronze Gauntlets,5,5 d,23,36,,,Str 36,no,https://www.poewiki.net/wiki/Giantsbane
+Gravebind,Gloves,Gloves,core,no,Hydrascale Gauntlets,2,2 d,59,45,45,,"Str 45, Dex 45",no,https://www.poewiki.net/wiki/Gravebind
+Great Old One's Tentacles,Gloves,Gloves,core,no,Eelskin Gloves,4,4 d,38,,56,,Dex 56,no,https://www.poewiki.net/wiki/Great_Old_One's_Tentacles
+Grip of the Council,Gloves,Gloves,core,no,Arcanist Gloves,3,3 d,60,,,95,Int 95,no,https://www.poewiki.net/wiki/Grip_of_the_Council
+Haemophilia,Gloves,Gloves,core,no,Serpentscale Gauntlets,3,3 d,43,34,34,,"Str 34, Dex 34",no,https://www.poewiki.net/wiki/Haemophilia
+Hand of Heresy,Gloves,Gloves,core,no,Martyr Gloves,2,2 u,78,70,,70,"Str 70, Int 70",no,https://www.poewiki.net/wiki/Hand_of_Heresy
+Hrimsorrow,Gloves,Gloves,core,no,Goathide Gloves,5,5 d,9,,17,,Dex 17,no,https://www.poewiki.net/wiki/Hrimsorrow
+Kalisa's Grace,Gloves,Gloves,core,no,Samite Gloves,5,5 d,55,,,68,Int 68,yes,https://www.poewiki.net/wiki/Kalisa's_Grace
+Kaom's Spirit,Gloves,Gloves,core,no,Titan Gauntlets,3,3 d,69,98,,,Str 98,yes,https://www.poewiki.net/wiki/Kaom's_Spirit
+Lochtonial Caress,Gloves,Gloves,core,no,Iron Gauntlets,5,5 d,1,6,,,Str 6,no,https://www.poewiki.net/wiki/Lochtonial_Caress
+Machina Mitts,Gloves,Gloves,core,no,Murder Mitts,2,2 d,67,,51,51,"Dex 51, Int 51",no,https://www.poewiki.net/wiki/Machina_Mitts
+Malachai's Mark,Gloves,Gloves,core,no,Murder Mitts,3,3,67,,51,51,"Dex 51, Int 51",no,https://www.poewiki.net/wiki/Malachai's_Mark
+Maligaro's Virtuosity,Gloves,Gloves,core,no,Deerskin Gloves,3,3 d,21,,33,,Dex 33,yes,https://www.poewiki.net/wiki/Maligaro's_Virtuosity
+Meginord's Vise,Gloves,Gloves,core,no,Steel Gauntlets,3,3 d,35,52,,,Str 52,yes,https://www.poewiki.net/wiki/Meginord's_Vise
+Mercenary's Lot,Gloves,Gloves,core,no,Slink Gloves,3,3 u,70,,95,,Dex 95,no,https://www.poewiki.net/wiki/Mercenary's_Lot
+Null and Void,Gloves,Gloves,core,no,Legion Gloves,4,4 d,57,44,,44,"Str 44, Int 44",yes,https://www.poewiki.net/wiki/Null_and_Void
+Ondar's Clasp,Gloves,Gloves,core,no,Wrapped Mitts,5,5 d,5,,6,6,"Dex 6, Int 6",no,https://www.poewiki.net/wiki/Ondar's_Clasp
+Oskarm,Gloves,Gloves,core,no,Nubuck Gloves,4,4 d,52,,50,,Dex 50,no,https://www.poewiki.net/wiki/Oskarm
+Painseeker,Gloves,Gloves,core,no,Shagreen Gloves,5,5 d,54,,78,,Dex 78,no,https://www.poewiki.net/wiki/Painseeker
+Repentance,Gloves,Gloves,core,no,Crusader Gloves,3,3 d,66,51,,51,"Str 51, Int 51",yes,https://www.poewiki.net/wiki/Repentance
+Sadima's Touch,Gloves,Gloves,core,no,Wool Gloves,4,4 d,1,,,9,Int 9,yes,https://www.poewiki.net/wiki/Sadima's_Touch
+Shackles of the Wretched,Gloves,Gloves,core,no,Chain Gloves,4,4 d,7,8,,8,"Str 8, Int 8",yes,https://www.poewiki.net/wiki/Shackles_of_the_Wretched
+Shadows and Dust,Gloves,Gloves,core,no,Clasped Mitts,4,4 d,31,,25,25,"Dex 25, Int 25",yes,https://www.poewiki.net/wiki/Shadows_and_Dust
+Slitherpinch,Gloves,Gloves,core,no,Bronzescale Gauntlets,5,5 d,27,22,22,,"Str 22, Dex 22",no,https://www.poewiki.net/wiki/Slitherpinch
+Snakebite,Gloves,Gloves,core,no,Assassin's Mitts,4,4 d,58,,45,45,"Dex 45, Int 45",yes,https://www.poewiki.net/wiki/Snakebite
+Southbound,Gloves,Gloves,core,no,Soldier Gloves,5,5 d,51,40,,40,"Str 40, Int 40",no,https://www.poewiki.net/wiki/Southbound
+Stormseeker,Gloves,Gloves,core,no,Ambush Mitts,4,4 d,45,,35,35,"Dex 35, Int 35",no,https://www.poewiki.net/wiki/Stormseeker
+Storm's Gift,Gloves,Gloves,core,no,Assassin's Mitts,3,3 d,58,,45,45,"Dex 45, Int 45",no,https://www.poewiki.net/wiki/Storm's_Gift
+Surgebinders,Gloves,Gloves,core,no,Dragonscale Gauntlets,5,5 d,67,51,51,,"Str 51, Dex 51",no,https://www.poewiki.net/wiki/Surgebinders
+Tanu Ahi,Gloves,Gloves,core,no,Wyrmscale Gauntlets,4,4 d,49,38,38,,"Str 38, Dex 38",no,https://www.poewiki.net/wiki/Tanu_Ahi
+The Embalmer,Gloves,Gloves,core,no,Carnal Mitts,5,5 d,50,,39,39,"Dex 39, Int 39",yes,https://www.poewiki.net/wiki/The_Embalmer
+The Hand of Phrecia,Gloves,Gloves,core,no,Mesh Gloves,3,3 d,32,26,,26,"Str 26, Int 26",no,https://www.poewiki.net/wiki/The_Hand_of_Phrecia
+Thunderfist,Gloves,Gloves,core,no,Murder Mitts,2,2 d,67,,51,51,"Dex 51, Int 51",yes,https://www.poewiki.net/wiki/Thunderfist
+Triad Grip,Gloves,Gloves,core,no,Mesh Gloves,5,5 d,32,26,,26,"Str 26, Int 26",no,https://www.poewiki.net/wiki/Triad_Grip
+Vaal Caress,Gloves,Gloves,core,no,Bronzescale Gauntlets,3,3 d,27,22,22,,"Str 22, Dex 22",yes,https://www.poewiki.net/wiki/Vaal_Caress
+Veruso's Battering Rams,Gloves,Gloves,core,no,Titan Gauntlets,5,5 d,69,98,,,Str 98,yes,https://www.poewiki.net/wiki/Veruso's_Battering_Rams
+Vixen's Entrapment,Gloves,Gloves,core,no,Embroidered Gloves,3,3 d,36,,,54,Int 54,no,https://www.poewiki.net/wiki/Vixen's_Entrapment
+Voidbringer,Gloves,Gloves,core,no,Conjurer Gloves,4,4 d,55,,,79,Int 79,yes,https://www.poewiki.net/wiki/Voidbringer
+Volkuur's Guidance,Gloves,Gloves,core,no,Zealot Gloves,3,3 d,43,34,,34,"Str 34, Int 34",no,https://www.poewiki.net/wiki/Volkuur's_Guidance
+Wyrmsign,Gloves,Gloves,core,no,Wyrmscale Gauntlets,4,4 d,49,38,38,,"Str 38, Dex 38",yes,https://www.poewiki.net/wiki/Wyrmsign
+Abberath's Hooves,Boots,Boots,core,no,Goathide Boots,1,1 d,12,,26,,Dex 26,no,https://www.poewiki.net/wiki/Abberath's_Hooves
+Alberon's Warpath,Boots,Boots,core,no,Soldier Boots,4,4 d,49,47,,47,"Str 47, Int 47",yes,https://www.poewiki.net/wiki/Alberon's_Warpath
+Beacon of Madness,Boots,Boots,core,no,Two-Toned Boots,3,2 r -3 d,70,62,,62,"Str 62, Int 62",no,https://www.poewiki.net/wiki/Beacon_of_Madness
+Bones of Ullr,Boots,Boots,core,no,Silk Slippers,5,5 d,22,,,42,Int 42,no,https://www.poewiki.net/wiki/Bones_of_Ullr
+Corpsewalker,Boots,Boots,core,no,Carnal Boots,2,2 d,55,,52,52,"Dex 52, Int 52",no,https://www.poewiki.net/wiki/Corpsewalker
+Darkray Vectors,Boots,Boots,core,no,Dragonscale Boots,4,4 d,65,62,62,,"Str 62, Dex 62",yes,https://www.poewiki.net/wiki/Darkray_Vectors
+Deerstalker,Boots,Boots,core,no,Deerskin Boots,5,5 d,22,,42,,Dex 42,no,https://www.poewiki.net/wiki/Deerstalker
+Dusktoe,Boots,Boots,core,no,Ironscale Boots,5,5 d,18,19,19,,"Str 19, Dex 19",no,https://www.poewiki.net/wiki/Dusktoe
+Gang's Momentum,Boots,Boots,core,no,Legion Boots,5,5 d,58,54,,54,"Str 54, Int 54",yes,https://www.poewiki.net/wiki/Gang's_Momentum
+Garukhan's Flight,Boots,Boots,core,no,Stealth Boots,1,1 d,62,,117,,Dex 117,no,https://www.poewiki.net/wiki/Garukhan's_Flight
+Goldwyrm,Boots,Boots,core,no,Nubuck Boots,4,4 d,34,,62,,Dex 62,yes,https://www.poewiki.net/wiki/Goldwyrm
+Inya's Epiphany,Boots,Boots,core,no,Arcanist Slippers,3,3 d,61,,,119,Int 119,no,https://www.poewiki.net/wiki/Inya's_Epiphany
+Kahuturoa's Certainty,Boots,Boots,core,no,Ancient Greaves,4,4 d,46,82,,,Str 82,no,https://www.poewiki.net/wiki/Kahuturoa's_Certainty
+Kaom's Roots,Boots,Boots,core,no,Titan Greaves,3,3 d,68,120,,,Str 120,yes,https://www.poewiki.net/wiki/Kaom's_Roots
+Lioneye's Paws,Boots,Boots,core,no,Bronzescale Boots,4,4 d,30,30,30,,"Str 30, Dex 30",yes,https://www.poewiki.net/wiki/Lioneye's_Paws
+March of the Legion,Boots,Boots,core,no,Legion Boots,3,3 u,58,54,,54,"Str 54, Int 54",no,https://www.poewiki.net/wiki/March_of_the_Legion
+Nomic's Storm,Boots,Boots,core,no,Strapped Boots,5,5 d,16,,18,18,"Dex 18, Int 18",no,https://www.poewiki.net/wiki/Nomic's_Storm
+Orbala's Stand,Boots,Boots,core,no,Eelskin Boots,5,5 d,39,,70,,Dex 70,no,https://www.poewiki.net/wiki/Orbala's_Stand
+Rainbowstride,Boots,Boots,core,no,Conjurer Boots,3,3 d,53,,,94,Int 94,no,https://www.poewiki.net/wiki/Rainbowstride
+Ralakesh's Impatience,Boots,Boots,core,no,Riveted Boots,1,1 d,36,35,,35,"Str 35, Int 35",no,https://www.poewiki.net/wiki/Ralakesh's_Impatience
+Scornflux,Boots,Boots,core,no,Satin Slippers,4,4,54,,,69,Int 69,no,https://www.poewiki.net/wiki/Scornflux
+Seven-League Step,Boots,Boots,core,no,Rawhide Boots,2,2 d,1,,11,,Dex 11,yes,https://www.poewiki.net/wiki/Seven-League_Step
+Shavronne's Pace,Boots,Boots,core,no,Scholar Boots,5,5 d,32,,,59,Int 59,no,https://www.poewiki.net/wiki/Shavronne's_Pace
+Sin Trek,Boots,Boots,core,no,Stealth Boots,5,5 d,62,,117,,Dex 117,no,https://www.poewiki.net/wiki/Sin_Trek
+Skyforth,Boots,Boots,core,no,Sorcerer Boots,2,2 d,67,,,123,Int 123,yes,https://www.poewiki.net/wiki/Skyforth
+Stormcharger,Boots,Boots,core,no,Plated Greaves,5,5 d,23,44,,,Str 44,no,https://www.poewiki.net/wiki/Stormcharger
+Sundance,Boots,Boots,core,no,Clasped Boots,5,5 d,27,,27,27,"Dex 27, Int 27",no,https://www.poewiki.net/wiki/Sundance
+The Blood Dance,Boots,Boots,core,no,Sharkskin Boots,3,3 d,44,,79,,Dex 79,no,https://www.poewiki.net/wiki/The_Blood_Dance
+Three-step Assault,Boots,Boots,core,no,Shagreen Boots,5,5 d,55,,97,,Dex 97,no,https://www.poewiki.net/wiki/Three-step_Assault
+Torchoak Step,Boots,Boots,core,no,Antique Greaves,5,5 d,37,67,,,Str 67,no,https://www.poewiki.net/wiki/Torchoak_Step
+Veruso's Ambition,Boots,Boots,core,no,Shackled Boots,4,4 d,34,,34,34,"Dex 34, Int 34",no,https://www.poewiki.net/wiki/Veruso's_Ambition
+Victario's Flight,Boots,Boots,core,no,Goathide Boots,4,4 d,12,,26,,Dex 26,yes,https://www.poewiki.net/wiki/Victario's_Flight
+Wake of Destruction,Boots,Boots,core,no,Mesh Boots,5,5 d,28,28,,28,"Str 28, Int 28",no,https://www.poewiki.net/wiki/Wake_of_Destruction
+Wanderlust,Boots,Boots,core,no,Wool Shoes,5,5 d,1,,,11,Int 11,no,https://www.poewiki.net/wiki/Wanderlust
+Windscream,Boots,Boots,core,no,Reinforced Greaves,3,3 d,33,61,,,Str 61,yes,https://www.poewiki.net/wiki/Windscream
+Wondertrap,Boots,Boots,core,no,Velvet Slippers,5,5 d,9,,,21,Int 21,no,https://www.poewiki.net/wiki/Wondertrap
+Ambu's Charge,Body Armour,Body Armours,core,no,Crusader Chainmail,4,4 d,43,64,,64,"Str 64, Int 64",yes,https://www.poewiki.net/wiki/Ambu's_Charge
+Ashrend,Body Armour,Body Armours,core,no,Buckskin Tunic,4,4 d,17,,53,,Dex 53,yes,https://www.poewiki.net/wiki/Ashrend
+Belly of the Beast,Body Armour,Body Armours,core,no,Full Wyrmscale,3,3 d,46,68,68,,"Str 68, Dex 68",yes,https://www.poewiki.net/wiki/Belly_of_the_Beast
+Bloodbond,Body Armour,Body Armours,core,no,Bone Armour,4,4 d,35,,53,53,"Dex 53, Int 53",no,https://www.poewiki.net/wiki/Bloodbond
+Blunderbore,Body Armour,Body Armours,core,no,Astral Plate,3,3 d,62,180,,,Str 180,no,https://www.poewiki.net/wiki/Blunderbore
+Bramblejack,Body Armour,Body Armours,core,no,Plate Vest,4,4 d,1,12,,,Str 12,yes,https://www.poewiki.net/wiki/Bramblejack
+Briskwrap,Body Armour,Body Armours,core,no,Sun Leather,5,5 d,32,,91,,Dex 91,no,https://www.poewiki.net/wiki/Briskwrap
+Bronn's Lithe,Body Armour,Body Armours,core,no,Cutthroat's Garb,4,4 d,53,,145,,Dex 145,yes,https://www.poewiki.net/wiki/Bronn's_Lithe
+Carcass Jack,Body Armour,Body Armours,core,no,Varnished Coat,3,3 d,62,,96,96,"Dex 96, Int 96",yes,https://www.poewiki.net/wiki/Carcass_Jack
+Chains of Command,Body Armour,Body Armours,core,no,Saintly Chainmail,3,3 d,70,99,,115,"Str 99, Int 115",no,https://www.poewiki.net/wiki/Chains_of_Command
+Cherrubim's Maleficence,Body Armour,Body Armours,core,no,Triumphant Lamellar,4,4 d,69,95,116,,"Str 95, Dex 116",yes,https://www.poewiki.net/wiki/Cherrubim's_Maleficence
+Cloak of Defiance,Body Armour,Body Armours,core,no,Lacquered Garb,2,2 d,52,,76,76,"Dex 76, Int 76",yes,https://www.poewiki.net/wiki/Cloak_of_Defiance
+Cloak of Flame,Body Armour,Body Armours,core,no,Scholar's Robe,3,3 d,18,,,55,Int 55,yes,https://www.poewiki.net/wiki/Cloak_of_Flame
+Cospri's Will,Body Armour,Body Armours,core,no,Assassin's Garb,3,3 d,68,,183,,Dex 183,yes,https://www.poewiki.net/wiki/Cospri's_Will
+Daresso's Defiance,Body Armour,Body Armours,core,no,Full Dragonscale,3,3 d,63,115,94,,"Str 115, Dex 94",no,https://www.poewiki.net/wiki/Daresso's_Defiance
+Death's Oath,Body Armour,Body Armours,core,no,Astral Plate,3,3 d,62,180,,,Str 180,yes,https://www.poewiki.net/wiki/Death's_Oath
+Dendrobate,Body Armour,Body Armours,core,no,Sentinel Jacket,4,4 d,59,,86,86,"Dex 86, Int 86",no,https://www.poewiki.net/wiki/Dendrobate
+Dialla's Malefaction,Body Armour,Body Armours,core,no,Sage's Robe,1,1 d,37,,,104,Int 104,yes,https://www.poewiki.net/wiki/Dialla's_Malefaction
+Doedre's Skin,Body Armour,Body Armours,core,no,Widowsilk Robe,2,2 d,65,,,187,Int 187,no,https://www.poewiki.net/wiki/Doedre's_Skin
+Doryani's Prototype,Body Armour,Body Armours,core,no,Saint's Hauberk,2,2 d,67,109,,94,"Str 109, Int 94",no,https://www.poewiki.net/wiki/Doryani's_Prototype
+Fleshcrafter,Body Armour,Body Armours,core,no,Necromancer Silks,2,2 d,59,,,160,Int 160,yes,https://www.poewiki.net/wiki/Fleshcrafter
+Foxshade,Body Armour,Body Armours,core,no,Wild Leather,5,5 d,25,,73,,Dex 73,no,https://www.poewiki.net/wiki/Foxshade
+Geofri's Sanctuary,Body Armour,Body Armours,core,no,Elegant Ringmail,4,4 d,64,90,,105,"Str 90, Int 105",no,https://www.poewiki.net/wiki/Geofri's_Sanctuary
+Ghostwrithe,Body Armour,Body Armours,core,no,Silken Vest,4,4 d,11,,,37,Int 37,yes,https://www.poewiki.net/wiki/Ghostwrithe
+Greed's Embrace,Body Armour,Body Armours,core,no,Golden Plate,4,4 d,56,152,,,Str 152,yes,https://www.poewiki.net/wiki/Greed's_Embrace
+Gruthkul's Pelt,Body Armour,Body Armours,core,no,Wyrmscale Doublet,1,1 d,38,57,57,,"Str 57, Dex 57",yes,https://www.poewiki.net/wiki/Gruthkul's_Pelt
+Hyrri's Ire,Body Armour,Body Armours,core,no,Zodiac Leather,2,2 d,65,,197,,Dex 197,yes,https://www.poewiki.net/wiki/Hyrri's_Ire
+Icetomb,Body Armour,Body Armours,core,no,Latticed Ringmail,5,5 d,39,59,,59,"Str 59, Int 59",no,https://www.poewiki.net/wiki/Icetomb
+Incandescent Heart,Body Armour,Body Armours,core,no,Saintly Chainmail,3,3 d,70,99,,115,"Str 99, Int 115",yes,https://www.poewiki.net/wiki/Incandescent_Heart
+Infernal Mantle,Body Armour,Body Armours,core,no,Widowsilk Robe,3,3 d,65,,,187,Int 187,yes,https://www.poewiki.net/wiki/Infernal_Mantle
+Inpulsa's Broken Heart,Body Armour,Body Armours,core,no,Sadist Garb,2,2 d,68,,103,109,"Dex 103, Int 109",yes,https://www.poewiki.net/wiki/Inpulsa's_Broken_Heart
+Kaom's Heart,Body Armour,Body Armours,core,no,Glorious Plate,2,2 d,68,191,,,Str 191,no,https://www.poewiki.net/wiki/Kaom's_Heart
+Kingsguard,Body Armour,Body Armours,core,no,Conquest Chainmail,5,5 d,61,96,,96,"Str 96, Int 96",no,https://www.poewiki.net/wiki/Kingsguard
+Kintsugi,Body Armour,Body Armours,core,no,Exquisite Leather,2,2 d,62,,170,,Dex 170,yes,https://www.poewiki.net/wiki/Kintsugi
+Lightbane Raiment,Body Armour,Body Armours,core,no,Ornate Ringmail,5,5 d,47,69,,69,"Str 69, Int 69",no,https://www.poewiki.net/wiki/Lightbane_Raiment
+Lightning Coil,Body Armour,Body Armours,core,no,Desert Brigandine,3,3 d,60,96,96,,"Str 96, Dex 96",yes,https://www.poewiki.net/wiki/Lightning_Coil
+Lioneye's Vision,Body Armour,Body Armours,core,no,Crusader Plate,4,4 d,59,160,,,Str 160,yes,https://www.poewiki.net/wiki/Lioneye's_Vision
+Perfidy,Body Armour,Body Armours,core,no,Glorious Plate,3,3 d,68,191,,,Str 191,no,https://www.poewiki.net/wiki/Perfidy
+Pragmatism,Body Armour,Body Armours,core,no,Colosseum Plate,,,49,134,,,Str 134,no,https://www.poewiki.net/wiki/Pragmatism
+Queen of the Forest,Body Armour,Body Armours,core,no,Destiny Leather,3,3 d,59,,160,,Dex 160,yes,https://www.poewiki.net/wiki/Queen_of_the_Forest
+Rigwald's Hunt,Body Armour,Body Armours,core,no,General's Brigandine,2,2 u,66,103,103,,"Str 103, Dex 103",no,https://www.poewiki.net/wiki/Rigwald's_Hunt
+Shavronne's Wrappings,Body Armour,Body Armours,core,no,Occultist's Vestment,2,2 d,62,,,180,Int 180,yes,https://www.poewiki.net/wiki/Shavronne's_Wrappings
+Solaris Lorica,Body Armour,Body Armours,core,no,Copper Plate,4,4 d,17,53,,,Str 53,yes,https://www.poewiki.net/wiki/Solaris_Lorica
+Soul Mantle,Body Armour,Body Armours,core,no,Spidersilk Robe,4,4 d,49,,,134,Int 134,yes,https://www.poewiki.net/wiki/Soul_Mantle
+Tabula Rasa,Body Armour,Body Armours,core,no,Simple Robe,3,3 d,1,,,17,Int 17,no,https://www.poewiki.net/wiki/Tabula_Rasa
+The Beast Fur Shawl,Body Armour,Body Armours,core,no,Vaal Regalia,4,4 d,68,,,194,Int 194,no,https://www.poewiki.net/wiki/The_Beast_Fur_Shawl
+The Brass Dome,Body Armour,Body Armours,core,no,Gladiator Plate,2,2 d,65,177,,,Str 177,yes,https://www.poewiki.net/wiki/The_Brass_Dome
+The Coming Calamity,Body Armour,Body Armours,core,no,Destroyer Regalia,4,4 d,53,,,145,Int 145,yes,https://www.poewiki.net/wiki/The_Coming_Calamity
+The Covenant,Body Armour,Body Armours,core,no,Spidersilk Robe,2,2 d,49,,,134,Int 134,yes,https://www.poewiki.net/wiki/The_Covenant
+The Fourth Vow,Body Armour,Body Armours,core,no,Devout Chainmail,2,2 d,55,80,,80,"Str 80, Int 80",yes,https://www.poewiki.net/wiki/The_Fourth_Vow
+The Iron Fortress,Body Armour,Body Armours,core,no,Crusader Plate,2,2 d,59,160,,,Str 160,yes,https://www.poewiki.net/wiki/The_Iron_Fortress
+The Ivory Tower,Body Armour,Body Armours,core,no,Saint's Hauberk,3,3 d,67,109,,94,"Str 109, Int 94",no,https://www.poewiki.net/wiki/The_Ivory_Tower
+The Rat Cage,Body Armour,Body Armours,core,no,Sharkskin Tunic,3,3 d,56,,152,,Dex 152,no,https://www.poewiki.net/wiki/The_Rat_Cage
+The Restless Ward,Body Armour,Body Armours,core,no,Carnal Armour,5,5 d,71,,88,122,"Dex 88, Int 122",no,https://www.poewiki.net/wiki/The_Restless_Ward
+Thousand Ribbons,Body Armour,Body Armours,core,no,Simple Robe,3,3 d,1,,,17,Int 17,no,https://www.poewiki.net/wiki/Thousand_Ribbons
+Tinkerskin,Body Armour,Body Armours,core,no,Sadist Garb,3,3 d,68,,103,109,"Dex 103, Int 109",yes,https://www.poewiki.net/wiki/Tinkerskin
+Victario's Influence,Body Armour,Body Armours,core,no,Lacquered Garb,4,4 d,52,,76,76,"Dex 76, Int 76",yes,https://www.poewiki.net/wiki/Victario's_Influence
+Utula's Hunger,Body Armour,Body Armours,core,no,Majestic Plate,2,2 d,53,145,,,Str 145,yes,https://www.poewiki.net/wiki/Utula's_Hunger
+Vis Mortis,Body Armour,Body Armours,core,no,Necromancer Silks,4,4 d,59,,,160,Int 160,yes,https://www.poewiki.net/wiki/Vis_Mortis
+Voll's Protector,Body Armour,Body Armours,core,no,Holy Chainmail,3,3 d,35,53,,53,"Str 53, Int 53",yes,https://www.poewiki.net/wiki/Voll's_Protector
+Yriel's Fostering,Body Armour,Body Armours,core,no,Exquisite Leather,3,3 d,62,,170,,Dex 170,no,https://www.poewiki.net/wiki/Yriel's_Fostering
+Zahndethus' Cassock,Body Armour,Body Armours,core,no,Sage's Robe,5,5 d,37,,,104,Int 104,yes,https://www.poewiki.net/wiki/Zahndethus'_Cassock
+Ascent From Flesh,Belt,Belts,core,no,Chain Belt,4,4 d,44,,,,None,no,https://www.poewiki.net/wiki/Ascent_From_Flesh
+Auxium,Belt,Belts,core,no,Crystal Belt,3,3 d,79,,,,None,yes,https://www.poewiki.net/wiki/Auxium
+Bated Breath,Belt,Belts,core,no,Chain Belt,5,5 d,22,,,,None,no,https://www.poewiki.net/wiki/Bated_Breath
+Belt of the Deceiver,Belt,Belts,core,no,Heavy Belt,4,4 d,20,,,,None,yes,https://www.poewiki.net/wiki/Belt_of_the_Deceiver
+Binds of Bloody Vengeance,Belt,Belts,core,no,Vanguard Belt,2,2 u,78,,,,None,no,https://www.poewiki.net/wiki/Binds_of_Bloody_Vengeance
+Bisco's Leash,Belt,Belts,core,no,Heavy Belt,3,3 d,30,,,,None,no,https://www.poewiki.net/wiki/Bisco's_Leash
+Bound Fate,Belt,Belts,core,no,Cloth Belt,3,3 d,49,,,,None,no,https://www.poewiki.net/wiki/Bound_Fate
+Ceinture of Benevolence,Belt,Belts,core,no,Cloth Belt,4,4 d,40,,,,None,no,https://www.poewiki.net/wiki/Ceinture_of_Benevolence
+Chain of Endurance,Belt,Belts,core,no,Chain Belt,5,5 d,14,,,,None,no,https://www.poewiki.net/wiki/Chain_of_Endurance
+Dyadian Dawn,Belt,Belts,core,no,Heavy Belt,3,3 d,52,,,,None,yes,https://www.poewiki.net/wiki/Dyadian_Dawn
+Faminebind,Belt,Belts,core,no,Rustic Sash,5,5 d,18,,,,None,no,https://www.poewiki.net/wiki/Faminebind
+Feastbind,Belt,Belts,core,no,Rustic Sash,5,5 d,11,,,,None,no,https://www.poewiki.net/wiki/Feastbind
+Gluttony,Belt,Belts,core,no,Leather Belt,4,4 d,48,,,,None,no,https://www.poewiki.net/wiki/Gluttony
+Headhunter,Belt,Belts,core,no,Leather Belt,0,0 d,40,,,,None,yes,https://www.poewiki.net/wiki/Headhunter
+Immortal Flesh,Belt,Belts,core,no,Leather Belt,5,5 d,50,,,,None,no,https://www.poewiki.net/wiki/Immortal_Flesh
+Kaom's Binding,Belt,Belts,core,no,Heavy Belt,3,3 d,56,,,,None,no,https://www.poewiki.net/wiki/Kaom's_Binding
+Leash of Oblation,Belt,Belts,core,no,Leather Belt,3,3 d,49,,,,None,no,https://www.poewiki.net/wiki/Leash_of_Oblation
+Mageblood,Belt,Belts,core,no,Heavy Belt,0,0 d,44,,,,None,yes,https://www.poewiki.net/wiki/Mageblood
+Maligaro's Restraint,Belt,Belts,core,no,Chain Belt,4,4 d,44,,,,None,yes,https://www.poewiki.net/wiki/Maligaro's_Restraint
+Meginord's Girdle,Belt,Belts,core,no,Heavy Belt,4,4 d,8,,,,None,yes,https://www.poewiki.net/wiki/Meginord's_Girdle
+Mother's Embrace,Belt,Belts,core,no,Heavy Belt,3,3 d,40,,,,None,no,https://www.poewiki.net/wiki/Mother's_Embrace
+Nevalius Inheritance,Belt,Belts,core,no,Cloth Belt,3,3 d,16,,,,None,no,https://www.poewiki.net/wiki/Nevalius_Inheritance
+Perandus Blazon,Belt,Belts,core,no,Cloth Belt,5,5 d,16,,,,None,no,https://www.poewiki.net/wiki/Perandus_Blazon
+Perseverance,Belt,Belts,core,no,Vanguard Belt,4,4 d,78,,,,None,no,https://www.poewiki.net/wiki/Perseverance
+Prismweave,Belt,Belts,core,no,Rustic Sash,5,5 d,25,,,,None,no,https://www.poewiki.net/wiki/Prismweave
+Pyroshock Clasp,Belt,Belts,core,no,Leather Belt,4,4 d,43,,,,None,no,https://www.poewiki.net/wiki/Pyroshock_Clasp
+Ryslatha's Coil,Belt,Belts,core,no,Studded Belt,1,1 d,32,,,,None,no,https://www.poewiki.net/wiki/Ryslatha's_Coil
+Siegebreaker,Belt,Belts,core,no,Heavy Belt,5,5 d,44,,,,None,no,https://www.poewiki.net/wiki/Siegebreaker
+Soul Tether,Belt,Belts,core,no,Cloth Belt,3,3 d,48,,,,None,yes,https://www.poewiki.net/wiki/Soul_Tether
+Soulthirst,Belt,Belts,core,no,Cloth Belt,3,3 d,45,,,,None,yes,https://www.poewiki.net/wiki/Soulthirst
+Sunblast,Belt,Belts,core,no,Cloth Belt,2,2 d,37,,,,None,yes,https://www.poewiki.net/wiki/Sunblast
+The Druggery,Belt,Belts,core,no,Cloth Belt,5,5 d,48,,,,None,no,https://www.poewiki.net/wiki/The_Druggery
+The Magnate,Belt,Belts,core,no,Studded Belt,2,2 d,16,,,,None,yes,https://www.poewiki.net/wiki/The_Magnate
+Umbilicus Immortalis,Belt,Belts,core,no,Leather Belt,3,3 d,30,,,,None,yes,https://www.poewiki.net/wiki/Umbilicus_Immortalis
+Wurm's Molt,Belt,Belts,core,no,Leather Belt,5,5 d,41,,,,None,no,https://www.poewiki.net/wiki/Wurm's_Molt
+Araku Tiki,Amulet,Amulets,core,no,Coral Amulet,5,5 d,1,,,,None,no,https://www.poewiki.net/wiki/Araku_Tiki
+Astramentis,Amulet,Amulets,core,no,Onyx Amulet,2,2 d,20,,,,None,yes,https://www.poewiki.net/wiki/Astramentis
+Atziri's Foible,Amulet,Amulets,core,no,Paua Amulet,2,2 d,16,,,,None,no,https://www.poewiki.net/wiki/Atziri's_Foible
+Badge of the Brotherhood,Amulet,Amulets,core,no,Turquoise Amulet,2,2 d,60,,,,None,yes,https://www.poewiki.net/wiki/Badge_of_the_Brotherhood
+Bisco's Collar,Amulet,Amulets,core,no,Gold Amulet,3,3,30,,,,None,no,https://www.poewiki.net/wiki/Bisco's_Collar
+Blightwell,Amulet,Amulets,core,no,Clutching Talisman,4,4 d,28,,,,None,no,https://www.poewiki.net/wiki/Blightwell
+Bloodgrip,Amulet,Amulets,core,no,Marble Amulet,5,5 d,74,,,,None,no,https://www.poewiki.net/wiki/Bloodgrip
+Bloodsoaked Medallion,Amulet,Amulets,core,no,Amber Amulet,4,4 d,49,,,,None,no,https://www.poewiki.net/wiki/Bloodsoaked_Medallion
+Carnage Heart,Amulet,Amulets,core,no,Onyx Amulet,5,5 d,20,,,,None,no,https://www.poewiki.net/wiki/Carnage_Heart
+Daresso's Salute,Amulet,Amulets,core,no,Citrine Amulet,5,5 d,16,,,,None,no,https://www.poewiki.net/wiki/Daresso's_Salute
+Defiance of Destiny,Amulet,Amulets,core,no,Paua Amulet,0,0 d,49,,,,None,yes,https://www.poewiki.net/wiki/Defiance_of_Destiny
+Doedre's Tongue,Amulet,Amulets,core,no,Lapis Amulet,3,3 d,24,,,,None,no,https://www.poewiki.net/wiki/Doedre's_Tongue
+Extractor Mentis,Amulet,Amulets,core,no,Agate Amulet,5,5 d,16,,,,None,no,https://www.poewiki.net/wiki/Extractor_Mentis
+Eye of Chayula,Amulet,Amulets,core,yes,Onyx Amulet,3,3 d,20,,,,None,yes,https://www.poewiki.net/wiki/Eye_of_Chayula
+Eye of Innocence,Amulet,Amulets,core,no,Citrine Amulet,5,5 d,68,,,,None,no,https://www.poewiki.net/wiki/Eye_of_Innocence
+Eyes of the Greatwolf,Amulet,Amulets,core,no,Greatwolf Talisman,2,2 d,52,,,,None,no,https://www.poewiki.net/wiki/Eyes_of_the_Greatwolf
+Fury Valve,Amulet,Amulets,core,no,Turquoise Amulet,3,3 d,40,,,,None,no,https://www.poewiki.net/wiki/Fury_Valve
+Gloomfang,Amulet,Amulets,core,no,Blue Pearl Amulet,3,3 d,77,,,,None,no,https://www.poewiki.net/wiki/Gloomfang
+Hinekora's Sight,Amulet,Amulets,core,no,Onyx Amulet,3,3 d,44,,,,None,yes,https://www.poewiki.net/wiki/Hinekora's_Sight
+Hyrri's Truth,Amulet,Amulets,core,no,Jade Amulet,4,4 d,64,,,,None,no,https://www.poewiki.net/wiki/Hyrri's_Truth
+Ikiaho's Promise,Amulet,Amulets,core,no,Coral Amulet,5,5 d,30,,,,None,no,https://www.poewiki.net/wiki/Ikiaho's_Promise
+Karui Ward,Amulet,Amulets,core,no,Jade Amulet,5,5 d,5,,,,None,no,https://www.poewiki.net/wiki/Karui_Ward
+Maligaro's Cruelty,Amulet,Amulets,core,no,Turquoise Amulet,4,4 d,20,,,,None,no,https://www.poewiki.net/wiki/Maligaro's_Cruelty
+Marylene's Fallacy,Amulet,Amulets,core,no,Lapis Amulet,3,3 d,40,,,,None,no,https://www.poewiki.net/wiki/Marylene's_Fallacy
+Natural Hierarchy,Amulet,Amulets,core,no,Rotfeather Talisman,4,4 d,44,,,,None,no,https://www.poewiki.net/wiki/Natural_Hierarchy
+Night's Hold,Amulet,Amulets,core,no,Black Maw Talisman,4,4 d,12,,,,None,no,https://www.poewiki.net/wiki/Night's_Hold
+Perquil's Toe,Amulet,Amulets,core,no,Gold Amulet,4,4 d,29,,,,None,no,https://www.poewiki.net/wiki/Perquil's_Toe
+Rashkaldor's Patience,Amulet,Amulets,core,no,Jade Amulet,3,3 d,48,,,,None,no,https://www.poewiki.net/wiki/Rashkaldor's_Patience
+Replica Dragonfang's Flight,Amulet,Amulets,core,no,Onyx Amulet,3,3 d,56,,,,None,no,https://www.poewiki.net/wiki/Replica_Dragonfang's_Flight
+Retaliation Charm,Amulet,Amulets,core,no,Citrine Amulet,5,5 d,16,,,,None,no,https://www.poewiki.net/wiki/Retaliation_Charm
+Rigwald's Curse,Amulet,Amulets,core,no,Wereclaw Talisman,3,3 d,28,,,,None,no,https://www.poewiki.net/wiki/Rigwald's_Curse
+Shaper's Seed,Amulet,Amulets,core,no,Agate Amulet,5,5 d,16,,,,None,no,https://www.poewiki.net/wiki/Shaper's_Seed
+Sidhebreath,Amulet,Amulets,core,no,Paua Amulet,5,5 d,1,,,,None,no,https://www.poewiki.net/wiki/Sidhebreath
+Stone of Lazhwar,Amulet,Amulets,core,no,Lapis Amulet,5,5 d,5,,,,None,no,https://www.poewiki.net/wiki/Stone_of_Lazhwar
+Tainted Pact,Amulet,Amulets,core,no,Coral Amulet,3,3 d,42,,,,None,no,https://www.poewiki.net/wiki/Tainted_Pact
+Tavukai,Amulet,Amulets,core,no,Coral Amulet,3,3 d,54,,,,None,no,https://www.poewiki.net/wiki/Tavukai
+Tear of Purity,Amulet,Amulets,core,no,Lapis Amulet,5,5 d,5,,,,None,no,https://www.poewiki.net/wiki/Tear_of_Purity
+The Anvil,Amulet,Amulets,core,no,Amber Amulet,5,5 d,45,,,,None,no,https://www.poewiki.net/wiki/The_Anvil
+The Ascetic,Amulet,Amulets,core,no,Gold Amulet,3,3,8,,,,None,no,https://www.poewiki.net/wiki/The_Ascetic
+The Aylardex,Amulet,Amulets,core,no,Agate Amulet,4,4 d,32,,,,None,yes,https://www.poewiki.net/wiki/The_Aylardex
+The Ephemeral Bond,Amulet,Amulets,core,no,Lapis Amulet,5,5 d,68,,,,None,no,https://www.poewiki.net/wiki/The_Ephemeral_Bond
+The Ignomon,Amulet,Amulets,core,no,Gold Amulet,5,5 d,8,,,,None,no,https://www.poewiki.net/wiki/The_Ignomon
+The Jinxed Juju,Amulet,Amulets,core,no,Citrine Amulet,3,3 d,48,,,,None,no,https://www.poewiki.net/wiki/The_Jinxed_Juju
+The Primordial Chain,Amulet,Amulets,core,no,Coral Amulet,4,4 d,34,,,,None,no,https://www.poewiki.net/wiki/The_Primordial_Chain
+The Torrent's Reclamation,Belt,Amulets,core,no,Cloth Belt,,,60,,,,None,no,https://www.poewiki.net/wiki/The_Torrent's_Reclamation
+The Untouched Soul,Amulet,Amulets,core,no,Gold Amulet,,,48,,,,None,no,https://www.poewiki.net/wiki/The_Untouched_Soul
+Ungil's Harmony,Amulet,Amulets,core,no,Turquoise Amulet,3,3 d,23,,,,None,no,https://www.poewiki.net/wiki/Ungil's_Harmony
+Victario's Acuity,Amulet,Amulets,core,no,Turquoise Amulet,5,5 d,16,,,,None,no,https://www.poewiki.net/wiki/Victario's_Acuity
+Voll's Devotion,Amulet,Amulets,core,no,Agate Amulet,2,2 d,32,,,,None,yes,https://www.poewiki.net/wiki/Voll's_Devotion
+Warped Timepiece,Amulet,Amulets,core,no,Turquoise Amulet,4,4 d,50,,,,None,yes,https://www.poewiki.net/wiki/Warped_Timepiece
+Willowgift,Amulet,Amulets,core,no,Jade Amulet,4,4 d,52,,,,None,no,https://www.poewiki.net/wiki/Willowgift
+Winterheart,Amulet,Amulets,core,no,Gold Amulet,5,5 d,42,,,,None,no,https://www.poewiki.net/wiki/Winterheart
+Yoke of Suffering,Amulet,Amulets,core,no,Onyx Amulet,3,3,70,,,,None,no,https://www.poewiki.net/wiki/Yoke_of_Suffering
+Anathema,Ring,Rings,core,no,Moonstone Ring,2,2 d,49,,,,None,yes,https://www.poewiki.net/wiki/Anathema
+Andvarius,Ring,Rings,core,no,Gold Ring,3,3 d,20,,,,None,no,https://www.poewiki.net/wiki/Andvarius
+Astral Projector,Ring,Rings,core,no,Topaz Ring,2,2 d,40,,,,None,yes,https://www.poewiki.net/wiki/Astral_Projector
+Berek's Grip,Ring,Rings,core,no,Two-Stone Ring,4,4 d,20,,,,None,yes,https://www.poewiki.net/wiki/Berek's_Grip
+Berek's Pass,Ring,Rings,core,no,Two-Stone Ring,4,4 d,20,,,,None,yes,https://www.poewiki.net/wiki/Berek's_Pass
+Berek's Respite,Ring,Rings,core,no,Two-Stone Ring,3,3 d,20,,,,None,yes,https://www.poewiki.net/wiki/Berek's_Respite
+Blackheart,Ring,Rings,core,no,Iron Ring,5,5 d,1,,,,None,no,https://www.poewiki.net/wiki/Blackheart
+Call of the Brotherhood,Ring,Rings,core,no,Two-Stone Ring,3,3 d,20,,,,None,yes,https://www.poewiki.net/wiki/Call_of_the_Brotherhood
+Death Rush,Ring,Rings,core,no,Amethyst Ring,2,2 d,30,,,,None,yes,https://www.poewiki.net/wiki/Death_Rush
+Doedre's Damning,Ring,Rings,core,no,Paua Ring,4,4 d,1,,,,None,yes,https://www.poewiki.net/wiki/Doedre's_Damning
+Dream Fragments,Ring,Rings,core,no,Sapphire Ring,3,3 d,24,,,,None,yes,https://www.poewiki.net/wiki/Dream_Fragments
+Emberwake,Ring,Rings,core,no,Ruby Ring,3,3 d,16,,,,None,no,https://www.poewiki.net/wiki/Emberwake
+Essence Worm,Ring,Rings,core,no,Unset Ring,4,4 d,38,,,,None,no,https://www.poewiki.net/wiki/Essence_Worm
+Gifts from Above,Ring,Rings,core,no,Diamond Ring,4,4 d,28,,,,None,yes,https://www.poewiki.net/wiki/Gifts_from_Above
+Grattus Signet,Ring,Rings,core,no,Diamond Ring,4,4 d,20,,,,None,no,https://www.poewiki.net/wiki/Grattus_Signet
+Heartbound Loop,Ring,Rings,core,no,Moonstone Ring,4,4 d,20,,,,None,yes,https://www.poewiki.net/wiki/Heartbound_Loop
+Icefang Orbit,Ring,Rings,core,no,Iron Ring,4,4 d,49,,,,None,no,https://www.poewiki.net/wiki/Icefang_Orbit
+Kalandra's Touch,Ring,Rings,core,no,Ring,0,0 d,1,,,,None,no,https://www.poewiki.net/wiki/Kalandra's_Touch
+Kaom's Sign,Ring,Rings,core,no,Coral Ring,4,4 d,1,,,,None,yes,https://www.poewiki.net/wiki/Kaom's_Sign
+Kikazaru,Ring,Rings,core,no,Topaz Ring,4,4 d,20,,,,None,yes,https://www.poewiki.net/wiki/Kikazaru
+Le Heup of All,Ring,Rings,core,no,Iron Ring,4,4 d,24,,,,None,yes,https://www.poewiki.net/wiki/Le_Heup_of_All
+Lori's Lantern,Ring,Rings,core,no,Prismatic Ring,4,4 d,30,,,,None,yes,https://www.poewiki.net/wiki/Lori's_Lantern
+Malachai's Artifice,Ring,Rings,core,no,Unset Ring,4,4 d,5,,,,None,no,https://www.poewiki.net/wiki/Malachai's_Artifice
+Mark of Submission,Ring,Rings,core,no,Unset Ring,5,5 d,24,,,,None,no,https://www.poewiki.net/wiki/Mark_of_Submission
+Ming's Heart,Ring,Rings,core,no,Amethyst Ring,3,3 d,69,,,,None,yes,https://www.poewiki.net/wiki/Ming's_Heart
+Mokou's Embrace,Ring,Rings,core,no,Ruby Ring,4,4 d,16,,,,None,yes,https://www.poewiki.net/wiki/Mokou's_Embrace
+Ngamahu's Sign,Ring,Rings,core,no,Ruby Ring,4,4 d,28,,,,None,no,https://www.poewiki.net/wiki/Ngamahu's_Sign
+Perandus Signet,Ring,Rings,core,no,Paua Ring,3,3 d,1,,,,None,no,https://www.poewiki.net/wiki/Perandus_Signet
+Praxis,Ring,Rings,core,no,Paua Ring,5,5 d,22,,,,None,no,https://www.poewiki.net/wiki/Praxis
+Profane Proxy,Ring,Rings,core,no,Unset Ring,3,3 d,52,,,,None,no,https://www.poewiki.net/wiki/Profane_Proxy
+Prospero's Protection,Ring,Rings,core,no,Iron Ring,4,4 u,32,,,,None,no,https://www.poewiki.net/wiki/Prospero's_Protection
+Pyre,Ring,Rings,core,no,Sapphire Ring,3,3 d,11,,,,None,yes,https://www.poewiki.net/wiki/Pyre
+Rigwald's Crest,Ring,Rings,core,no,Two-Stone Ring,3,3 d,20,,,,None,no,https://www.poewiki.net/wiki/Rigwald's_Crest
+Romira's Banquet,Ring,Rings,core,no,Diamond Ring,4,4 d,60,,,,None,yes,https://www.poewiki.net/wiki/Romira's_Banquet
+Shavronne's Revelation,Ring,Rings,core,no,Moonstone Ring,2,2 d,30,,,,None,yes,https://www.poewiki.net/wiki/Shavronne's_Revelation
+Sibyl's Lament,Ring,Rings,core,no,Coral Ring,5,5 d,45,,,,None,no,https://www.poewiki.net/wiki/Sibyl's_Lament
+Snakepit,Ring,Rings,core,no,Sapphire Ring,3,3 d,68,,,,None,yes,https://www.poewiki.net/wiki/Snakepit
+Soulbound,Ring,Rings,core,no,Paua Ring,4,4 d,44,,,,None,no,https://www.poewiki.net/wiki/Soulbound
+Squirming Terror,Ring,Rings,core,no,Unset Ring,3,3 u,32,,,,None,no,https://www.poewiki.net/wiki/Squirming_Terror
+Storm Secret,Ring,Rings,core,no,Topaz Ring,4,4 d,56,,,,None,no,https://www.poewiki.net/wiki/Storm_Secret
+Stormfire,Ring,Rings,core,no,Opal Ring,4,4 d,80,,,,None,no,https://www.poewiki.net/wiki/Stormfire
+Tasalio's Sign,Ring,Rings,core,no,Sapphire Ring,4,4 d,20,,,,None,no,https://www.poewiki.net/wiki/Tasalio's_Sign
+Tawhanuku's Timing,Ring,Rings,core,no,Moonstone Ring,5,5 d,44,,,,None,no,https://www.poewiki.net/wiki/Tawhanuku's_Timing
+The Highwayman,Ring,Rings,core,no,Gold Ring,5,5 d,44,,,,None,no,https://www.poewiki.net/wiki/The_Highwayman
+The Hungry Loop,Ring,Rings,core,no,Unset Ring,3,3 d,70,,,,None,no,https://www.poewiki.net/wiki/The_Hungry_Loop
+The Warden's Brand,Ring,Rings,core,no,Iron Ring,5,5 d,30,,,,None,no,https://www.poewiki.net/wiki/The_Warden's_Brand
+Thief's Torment,Ring,Rings,core,no,Prismatic Ring,4,4 d,30,,,,None,yes,https://www.poewiki.net/wiki/Thief's_Torment
+Timeclasp,Ring,Rings,core,no,Moonstone Ring,4,4 d,25,,,,None,yes,https://www.poewiki.net/wiki/Timeclasp
+Valako's Sign,Ring,Rings,core,no,Topaz Ring,4,4 d,38,,,,None,no,https://www.poewiki.net/wiki/Valako's_Sign
+Valyrium,Ring,Rings,core,no,Moonstone Ring,5,5 d,38,,,,None,no,https://www.poewiki.net/wiki/Valyrium
+Venopuncture,Ring,Rings,core,no,Iron Ring,4,4 d,49,,,,None,no,https://www.poewiki.net/wiki/Venopuncture
+Ventor's Gamble,Ring,Rings,core,no,Gold Ring,4,4 d,65,,,,None,yes,https://www.poewiki.net/wiki/Ventor's_Gamble
+Voideye,Ring,Rings,core,no,Unset Ring,4,4 d,45,,,,None,no,https://www.poewiki.net/wiki/Voideye
+Warrior's Legacy,Ring,Rings,core,no,Ruby Ring,2,2 d,40,,,,None,yes,https://www.poewiki.net/wiki/Warrior's_Legacy
+Winterweave,Ring,Rings,core,no,Coral Ring,3,3 d,24,,,,None,no,https://www.poewiki.net/wiki/Winterweave
+Blood of the Karui,Life Flask,Flasks,core,no,Sanctified Life Flask,4,4 d,50,,,,None,no,https://www.poewiki.net/wiki/Blood_of_the_Karui
+Coralito's Signature,Utility Flask,Flasks,core,no,Diamond Flask,4,4 d,27,,,,None,no,https://www.poewiki.net/wiki/Coralito's_Signature
+Divination Distillate,Hybrid Flask,Flasks,core,no,Large Hybrid Flask,3,3 d,30,,,,None,no,https://www.poewiki.net/wiki/Divination_Distillate
+Doedre's Elixir,Mana Flask,Flasks,core,no,Greater Mana Flask,5,5 d,12,,,,None,no,https://www.poewiki.net/wiki/Doedre's_Elixir
+Forbidden Taste,Utility Flask,Flasks,core,no,Quartz Flask,4,4 d,27,,,,None,no,https://www.poewiki.net/wiki/Forbidden_Taste
+Kiara's Determination,Utility Flask,Flasks,core,no,Silver Flask,5,5 d,27,,,,None,no,https://www.poewiki.net/wiki/Kiara's_Determination
+Lavianga's Spirit,Mana Flask,Flasks,core,no,Sanctified Mana Flask,4,4 d,50,,,,None,no,https://www.poewiki.net/wiki/Lavianga's_Spirit
+Lion's Roar,Utility Flask,Flasks,core,no,Granite Flask,3,3 d,27,,,,None,no,https://www.poewiki.net/wiki/Lion's_Roar
+Rotgut,Utility Flask,Flasks,core,no,Quicksilver Flask,5,5 d,40,,,,None,no,https://www.poewiki.net/wiki/Rotgut
+Rumi's Concoction,Utility Flask,Flasks,core,no,Granite Flask,3,3 d,68,,,,None,no,https://www.poewiki.net/wiki/Rumi's_Concoction
+Sin's Rebirth,Utility Flask,Flasks,core,no,Stibnite Flask,1,1 d,27,,,,None,no,https://www.poewiki.net/wiki/Sin's_Rebirth
+Taste of Hate,Utility Flask,Flasks,core,no,Sapphire Flask,2,2 d,18,,,,None,no,https://www.poewiki.net/wiki/Taste_of_Hate
+The Overflowing Chalice,Utility Flask,Flasks,core,no,Sulphur Flask,4,4 d,27,,,,None,no,https://www.poewiki.net/wiki/The_Overflowing_Chalice
+The Sorrow of the Divine,Utility Flask,Flasks,core,no,Sulphur Flask,4,4 d,27,,,,None,no,https://www.poewiki.net/wiki/The_Sorrow_of_the_Divine
+The Wise Oak,Utility Flask,Flasks,core,no,Bismuth Flask,3,3 d,8,,,,None,no,https://www.poewiki.net/wiki/The_Wise_Oak
+The Writhing Jar,Hybrid Flask,Flasks,core,no,Hallowed Hybrid Flask,4,4 d,60,,,,None,no,https://www.poewiki.net/wiki/The_Writhing_Jar
+Witchfire Brew,Utility Flask,Flasks,core,no,Stibnite Flask,3,3 d,48,,,,None,no,https://www.poewiki.net/wiki/Witchfire_Brew
+Zerphi's Last Breath,Mana Flask,Flasks,core,no,Grand Mana Flask,1,1 d,18,,,,None,no,https://www.poewiki.net/wiki/Zerphi's_Last_Breath
+Ancestral Vision,Jewel,Post 3.20 Jewels,core,no,Viridian Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Ancestral_Vision
+Bloodnotch,Jewel,Post 3.20 Jewels,core,no,Crimson Jewel,2,2 d,1,,,,None,no,https://www.poewiki.net/wiki/Bloodnotch
+Dead Reckoning,Jewel,Post 3.20 Jewels,core,no,Cobalt Jewel,2,2 d,1,,,,None,no,https://www.poewiki.net/wiki/Dead_Reckoning
+Firesong,Jewel,Post 3.20 Jewels,core,no,Crimson Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Firesong
+Immutable Force,Jewel,Post 3.20 Jewels,core,no,Crimson Jewel,2,2 d,1,,,,None,no,https://www.poewiki.net/wiki/Immutable_Force
+Inspired Learning,Jewel,Post 3.20 Jewels,core,no,Crimson Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Inspired_Learning
+Intuitive Leap,Jewel,Post 3.20 Jewels,core,no,Viridian Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Intuitive_Leap
+Lioneye's Fall,Jewel,Post 3.20 Jewels,core,no,Viridian Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Lioneye's_Fall
+Might of the Meek,Jewel,Post 3.20 Jewels,core,no,Crimson Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Might_of_the_Meek
+Pure Talent,Jewel,Post 3.20 Jewels,core,no,Viridian Jewel,2,2 d,1,,,,None,no,https://www.poewiki.net/wiki/Pure_Talent
+Stormshroud,Jewel,Post 3.20 Jewels,core,no,Viridian Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Stormshroud
+Unending Hunger,Jewel,Post 3.20 Jewels,core,no,Cobalt Jewel,2,2 d,1,,,,None,no,https://www.poewiki.net/wiki/Unending_Hunger
+Unnatural Instinct,Jewel,Post 3.20 Jewels,core,no,Viridian Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Unnatural_Instinct
+Witchbane,Jewel,Post 3.20 Jewels,core,no,Cobalt Jewel,2,2 d,1,,,,None,yes,https://www.poewiki.net/wiki/Witchbane
+Xoph's Inception,Bow,Breach,breach-only,yes,Citadel Bow,1,T1,58,,185,,Dex 185,yes,https://www.poewiki.net/wiki/Xoph's_Inception
+Xoph's Nurture,Bow,Breach,breach-only,yes,Citadel Bow,1,T1,64,,185,,Dex 185,yes,https://www.poewiki.net/wiki/Xoph's_Nurture
+The Formless Flame,Helmet,Breach,breach-only,yes,Royal Burgonet,1,T1,65,148,,,Str 148,yes,https://www.poewiki.net/wiki/The_Formless_Flame
+The Formless Inferno,Helmet,Breach,breach-only,yes,Royal Burgonet,1,T1,65,148,,,Str 148,yes,https://www.poewiki.net/wiki/The_Formless_Inferno
+Xoph's Heart,Amulet,Breach,breach-only,yes,Amber Amulet,1,T1,5,,,,None,yes,https://www.poewiki.net/wiki/Xoph's_Heart
+Xoph's Blood,Amulet,Breach,breach-only,yes,Amber Amulet,1,T1,64,,,,None,yes,https://www.poewiki.net/wiki/Xoph's_Blood
+Tulborn,Wand,Breach,breach-only,yes,Opal Wand,1,T1,62,,,212,Int 212,yes,https://www.poewiki.net/wiki/Tulborn
+Tulfall,Wand,Breach,breach-only,yes,Opal Wand,1,T1,62,,,212,Int 212,yes,https://www.poewiki.net/wiki/Tulfall
+The Snowblind Grace,Body Armour,Breach,breach-only,yes,Zodiac Leather,1,T1,65,,197,,Dex 197,yes,https://www.poewiki.net/wiki/The_Snowblind_Grace
+The Perfect Form,Body Armour,Breach,breach-only,yes,Zodiac Leather,1,T1,65,,197,,Dex 197,yes,https://www.poewiki.net/wiki/The_Perfect_Form
+The Halcyon,Amulet,Breach,breach-only,yes,Jade Amulet,1,T1,35,,,,None,yes,https://www.poewiki.net/wiki/The_Halcyon
+The Pandemonius,Amulet,Breach,breach-only,yes,Jade Amulet,1,T1,64,,,,None,yes,https://www.poewiki.net/wiki/The_Pandemonius
+Hand of Thought and Motion,Claw,Breach,breach-only,yes,Imperial Claw,1,T1,68,,131,95,"Dex 131, Int 95",yes,https://www.poewiki.net/wiki/Hand_of_Thought_and_Motion
+Hand of Wisdom and Action,Claw,Breach,breach-only,yes,Imperial Claw,1,T1,68,,131,95,"Dex 131, Int 95",yes,https://www.poewiki.net/wiki/Hand_of_Wisdom_and_Action
+Esh's Mirror,Shield,Breach,breach-only,yes,Vaal Spirit Shield,1,T1,62,,,159,Int 159,yes,https://www.poewiki.net/wiki/Esh's_Mirror
+Esh's Visage,Shield,Breach,breach-only,yes,Vaal Spirit Shield,1,T1,62,,,159,Int 159,yes,https://www.poewiki.net/wiki/Esh's_Visage
+Voice of the Storm,Amulet,Breach,breach-only,yes,Lapis Amulet,1,T1,69,,,,None,yes,https://www.poewiki.net/wiki/Voice_of_the_Storm
+Choir of the Storm,Amulet,Breach,breach-only,yes,Lapis Amulet,1,T1,69,,,,None,yes,https://www.poewiki.net/wiki/Choir_of_the_Storm
+Uul-Netol's Kiss,Two Hand Axe,Breach,breach-only,yes,Vaal Axe,1,T1,64,158,76,,"Str 158, Dex 76",yes,https://www.poewiki.net/wiki/Uul-Netol's_Kiss
+Uul-Netol's Embrace,Two Hand Axe,Breach,breach-only,yes,Vaal Axe,1,T1,64,158,76,,"Str 158, Dex 76",yes,https://www.poewiki.net/wiki/Uul-Netol's_Embrace
+The Infinite Pursuit,Boots,Breach,breach-only,yes,Titan Greaves,1,T1,68,120,,,Str 120,yes,https://www.poewiki.net/wiki/The_Infinite_Pursuit
+The Red Trail,Boots,Breach,breach-only,yes,Titan Greaves,1,T1,68,120,,,Str 120,yes,https://www.poewiki.net/wiki/The_Red_Trail
+The Anticipation,Shield,Breach,breach-only,yes,Ezomyte Tower Shield,1,T1,64,159,,,Str 159,yes,https://www.poewiki.net/wiki/The_Anticipation
+The Surrender,Shield,Breach,breach-only,yes,Ezomyte Tower Shield,1,T1,64,159,,,Str 159,yes,https://www.poewiki.net/wiki/The_Surrender
+Severed in Sleep,One Hand Sword,Breach,breach-only,yes,Cutlass,1,T1,69,55,79,,"Str 55, Dex 79",yes,https://www.poewiki.net/wiki/Severed_in_Sleep
+United in Dream,One Hand Sword,Breach,breach-only,yes,Cutlass,1,T1,69,55,79,,"Str 55, Dex 79",yes,https://www.poewiki.net/wiki/United_in_Dream
+Skin of the Loyal,Body Armour,Breach,breach-only,yes,Simple Robe,1,T1,1,,,17,Int 17,yes,https://www.poewiki.net/wiki/Skin_of_the_Loyal
+Skin of the Lords,Body Armour,Breach,breach-only,yes,Simple Robe,1,T1,1,,,17,Int 17,yes,https://www.poewiki.net/wiki/Skin_of_the_Lords
+The Red Dream,Jewel,Breach,breach-only,yes,Crimson Jewel,1,T1,1,,,,None,yes,https://www.poewiki.net/wiki/The_Red_Dream
+The Red Nightmare,Jewel,Breach,breach-only,yes,Crimson Jewel,1,T1,1,,,,None,yes,https://www.poewiki.net/wiki/The_Red_Nightmare
+The Green Dream,Jewel,Breach,breach-only,yes,Viridian Jewel,1,T1,1,,,,None,yes,https://www.poewiki.net/wiki/The_Green_Dream
+The Green Nightmare,Jewel,Breach,breach-only,yes,Viridian Jewel,1,T1,1,,,,None,yes,https://www.poewiki.net/wiki/The_Green_Nightmare
+The Blue Dream,Jewel,Breach,breach-only,yes,Cobalt Jewel,1,T1,1,,,,None,yes,https://www.poewiki.net/wiki/The_Blue_Dream
+The Blue Nightmare,Jewel,Breach,breach-only,yes,Cobalt Jewel,1,T1,1,,,,None,yes,https://www.poewiki.net/wiki/The_Blue_Nightmare
+Presence of Chayula,Amulet,Breach,breach-only,yes,Onyx Amulet,1,T1,60,,,,None,yes,https://www.poewiki.net/wiki/Presence_of_Chayula
