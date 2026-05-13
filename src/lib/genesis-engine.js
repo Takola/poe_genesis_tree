@@ -985,14 +985,28 @@ export function removePassiveBranch(passives, nodeId) {
   return sortPassives([...next]);
 }
 
-export function passiveDebugMultiplier(context, passives, nodeId) {
+function withSupportedAncestors(passives, nodeId) {
+  const next = new Set(passives);
+  for (const ancestorId of pathToNode(nodeId).slice(0, -1)) {
+    if (PASSIVES[ancestorId]?.supported) {
+      next.add(ancestorId);
+    }
+  }
+  return sortPassives([...next]);
+}
+
+export function passiveDebugMultiplier(context, passives, nodeId, mode = "cumulative") {
   if (!PASSIVES[nodeId]?.supported) {
     return null;
   }
 
   const currentPassives = sortPassives(passives);
-  const withoutNode = removePassiveBranch(currentPassives, nodeId);
-  const withNode = addPassivePath(withoutNode, nodeId);
+  const withoutNode = mode === "single"
+    ? withSupportedAncestors(removePassiveBranch(currentPassives, nodeId), nodeId)
+    : removePassiveBranch(currentPassives, nodeId);
+  const withNode = mode === "single"
+    ? sortPassives([...withoutNode, nodeId])
+    : addPassivePath(withoutNode, nodeId);
   const withNodeResult = evaluatePassives(context, withNode);
   const withoutNodeResult = evaluatePassives(context, withoutNode);
 

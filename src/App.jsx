@@ -202,6 +202,7 @@ export default function App() {
   const [pointBudget, setPointBudget] = useState(DEFAULT_POINT_BUDGET);
   const [appliedPointBudget, setAppliedPointBudget] = useState(DEFAULT_POINT_BUDGET);
   const [debugMode, setDebugMode] = useState(false);
+  const [debugMultiplierMode, setDebugMultiplierMode] = useState("cumulative");
   const [baseItems, setBaseItems] = useState(DEFAULT_BASE_ITEMS.toString());
   const [baseFoulbornPercent, setBaseFoulbornPercent] = useState(defaultBaseFoulbornPercentText());
   const [manualPassives, setManualPassives] = useState([]);
@@ -347,7 +348,7 @@ export default function App() {
         continue;
       }
 
-      const details = passiveDebugMultiplier(scenario.context, activePassives, nodeId);
+      const details = passiveDebugMultiplier(scenario.context, activePassives, nodeId, debugMultiplierMode);
       if (!details) {
         multipliers.set(nodeId, { label: "n/a", tone: "is-unsupported" });
         continue;
@@ -359,7 +360,7 @@ export default function App() {
     }
 
     return multipliers;
-  }, [activePassives, debugMode, scenario]);
+  }, [activePassives, debugMode, debugMultiplierMode, scenario]);
   const dropRatePerWombgift = scenario?.result.selectedExpectedRate ?? null;
   const wombgiftsPerTargetDrop = useMemo(() => {
     if (!dropRatePerWombgift && dropRatePerWombgift !== 0) {
@@ -646,16 +647,38 @@ export default function App() {
                 </button>
 
                 {debugMode && (
-                   <div className="input-grid debug-grid">
-                     <div>
-                       <label className="field-label">Base Items</label>
-                       <input className="text-input" type="number" step="0.01" value={baseItems} onChange={(e) => setBaseItems(e.target.value)} />
-                     </div>
-                     <div>
-                       <label className="field-label">Base Foulborn %</label>
-                       <input className="text-input" type="number" step="0.1" value={baseFoulbornPercent} onChange={(e) => setBaseFoulbornPercent(e.target.value)} />
-                     </div>
-                   </div>
+                  <>
+                    <label className="field-label">Debug Multiplier Mode</label>
+                    <div className="segmented-control" role="tablist" aria-label="Debug multiplier mode">
+                      <button
+                        type="button"
+                        className={debugMultiplierMode === "cumulative" ? "is-active" : ""}
+                        onClick={() => setDebugMultiplierMode("cumulative")}
+                      >
+                        Cumulative
+                      </button>
+                      <button
+                        type="button"
+                        className={debugMultiplierMode === "single" ? "is-active" : ""}
+                        onClick={() => setDebugMultiplierMode("single")}
+                      >
+                        Single Node
+                      </button>
+                    </div>
+                    <p className="field-note">
+                      Cumulative includes the full missing path to a node. Single node isolates only that node after its required parents.
+                    </p>
+                    <div className="input-grid debug-grid">
+                      <div>
+                        <label className="field-label">Base Items</label>
+                        <input className="text-input" type="number" step="0.01" value={baseItems} onChange={(e) => setBaseItems(e.target.value)} />
+                      </div>
+                      <div>
+                        <label className="field-label">Base Foulborn %</label>
+                        <input className="text-input" type="number" step="0.1" value={baseFoulbornPercent} onChange={(e) => setBaseFoulbornPercent(e.target.value)} />
+                      </div>
+                    </div>
+                  </>
                 )}
               </section>
 
