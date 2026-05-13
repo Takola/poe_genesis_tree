@@ -4,6 +4,8 @@
 
 Planner for the Unique item branch of Path of Exile's Genesis Tree.
 
+## [Open The Live Calculator](https://takola.github.io/poe_genesis_tree/)
+
 <p>
   <img src="src/assets/genesis-tree-screenshot.png" alt="Genesis Tree calculator interface" width="920" />
 </p>
