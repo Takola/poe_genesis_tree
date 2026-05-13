@@ -1,4 +1,4 @@
-﻿import { useDeferredValue, useMemo, useRef, useState } from "react";
+﻿import { useDeferredValue, useEffect, useMemo, useRef, useState } from "react";
 import treeImageUrl from "./assets/genesis-tree-screenshot.png";
 import {
   DEFAULT_BASE_FOULBORN_RATE,
@@ -320,6 +320,21 @@ export default function App() {
     () => scenario?.result.passives ?? (mode === "manual" ? manualPassives : []),
     [manualPassives, mode, scenario]
   );
+
+  useEffect(() => {
+    if (!treeMessage) {
+      return undefined;
+    }
+
+    const timeoutId = window.setTimeout(() => {
+      setTreeMessage("");
+    }, 5000);
+
+    return () => {
+      window.clearTimeout(timeoutId);
+    };
+  }, [treeMessage]);
+
   const debugNodeMultipliers = useMemo(() => {
     const multipliers = new Map();
 
