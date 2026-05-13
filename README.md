@@ -19,15 +19,6 @@ The site exists to answer a practical farming question:
 
 **If you want one specific unique from the Genesis Tree, which passive setup gives you the best odds per Ancient Wombgift?**
 
-Instead of treating the tree as a vague collection of class-bias nodes and foulborn modifiers, the page turns it into something you can test directly:
-
-| You choose | The page estimates |
-| --- | --- |
-| Exact target unique | Relative rate versus baseline |
-| Non-Foulborn, Any, or Foulborn target | Target drop rate per Wombgift |
-| Wombgift level cap | Average Wombgifts per hit |
-| Point budget for the optimizer | Estimated Hiveblood cost per hit |
-| Manual node allocation | Per-item roll chance and foulborn conversion rate |
 
 ## What The Site Does
 
@@ -35,8 +26,6 @@ Instead of treating the tree as a vague collection of class-bias nodes and foulb
 - Optimizes the Unique tree for a chosen point budget.
 - Lets you switch to **Manual** mode and click nodes yourself.
 - Models **Non-Foulborn**, **Any**, and **Foulborn** targeting, including options for multiple foulborn modifiers and avoiding corrupted non-foulborn outcomes.
-- Filters the unique pool by **Ancient Wombgift level cap**.
-- Shows baseline rate, relative gain, per-item chance, expected Wombgifts per success, and estimated Hiveblood cost.
 
 ## How The Model Works
 
