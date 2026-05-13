@@ -652,7 +652,16 @@ export default function App() {
                   <>
                     <div className="metric-grid">
                       <div className="metric-card metric-card--accent">
-                        <span>Relative Rate</span>
+                        <span
+                          className="metric-tooltip-label"
+                          tabIndex="0"
+                          aria-describedby="relative-rate-tooltip"
+                        >
+                          Relative Rate
+                          <span className="metric-tooltip" id="relative-rate-tooltip" role="tooltip">
+                            How much more often your unique will drop compared to an empty tree.
+                          </span>
+                        </span>
                         <strong>{formatValue(scenario.result.relativeRate)}x</strong>
                       </div>
                     </div>

@@ -376,6 +376,43 @@ body {
   font-size: 0.8rem;
   color: var(--muted);
 }
+
+.metric-tooltip-label {
+  position: relative;
+  display: inline-flex;
+  width: fit-content;
+  cursor: help;
+}
+
+.metric-tooltip {
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + 8px);
+  width: min(220px, 70vw);
+  padding: 8px 10px;
+  border: 1px solid var(--edge);
+  border-radius: 6px;
+  background: #121216;
+  color: var(--ink);
+  line-height: 1.4;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+  opacity: 0;
+  transform: translateY(4px);
+  pointer-events: none;
+  transition: opacity 120ms ease, transform 120ms ease;
+  z-index: 2;
+}
+
+.metric-tooltip-label:hover .metric-tooltip,
+.metric-tooltip-label:focus-visible .metric-tooltip {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.metric-tooltip-label .metric-tooltip {
+  font-size: 0.78rem;
+}
+
 .metric-card strong {
   display: block;
   font-size: 1.1rem;
